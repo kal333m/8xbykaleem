@@ -8,6 +8,8 @@
     get(k) { try { return localStorage.getItem(k); } catch { return null; } },
     set(k, v) { try { localStorage.setItem(k, v); } catch {} },
   };
+  // Vercel Web Analytics custom events (recorded on Pro; ignored otherwise)
+  const track = (name, data) => { try { window.va && window.va('event', { name, data }); } catch {} };
   const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
   // ---------- data (all sourced from 8x.careers, transcribed clips lightly cleaned) ----------
@@ -125,6 +127,7 @@
     v.muted = false;
     v.play().catch(() => stop(fig));
     setQuote(p);
+    track('Video play', { person: p.name });
   };
 
   // drag to scroll on desktop, without eating clicks
@@ -256,6 +259,7 @@
     cta.hidden = true;
     if (done === 0) { h.textContent = 'Start marking. It takes a minute.'; p.textContent = 'The point is to find out now, not in week two of a trial.'; return; }
     if (done < FIT.length) { h.textContent = 'Keep going.'; p.textContent = `${FIT.length - done} left. Be honest; nobody's watching.`; return; }
+    if (!verdict.sent) { verdict.sent = true; track('Fit verdict', { yes, of: FIT.length }); }
     if (yes >= 5) {
       h.textContent = 'Sounds like you. Pick a role.';
       p.textContent = 'Every role below is the real post, with the real assignment behind it.';
@@ -301,6 +305,10 @@
       <span class="meta type${r.y ? '' : ' unknown'}">${r.y ? esc(r.y) : '—'}</span>
       ${arrow}
     </a>`).join('');
+  rolesList.addEventListener('click', (e) => {
+    const a = e.target.closest('.role');
+    if (a) track('Role click', { role: $('h3', a).textContent });
+  });
   filters.addEventListener('click', (e) => {
     const b = e.target.closest('.chip');
     if (!b) return;
