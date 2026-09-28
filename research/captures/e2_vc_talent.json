@@ -1,0 +1,3670 @@
+{
+  "title": "talent - e2vc",
+  "meta": [
+    {
+      "n": "description",
+      "c": "turns out great taste in friends is a pretty good strategy"
+    },
+    {
+      "n": "og:title",
+      "c": "talent - e2vc"
+    },
+    {
+      "n": "og:description",
+      "c": "turns out great taste in friends is a pretty good strategy"
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8325/6a3186e3868fbff1e37a83b2_OG%20Image.png"
+    },
+    {
+      "n": "twitter:title",
+      "c": "talent - e2vc"
+    },
+    {
+      "n": "twitter:description",
+      "c": "turns out great taste in friends is a pretty good strategy"
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      303
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "48px/45.6px w600",
+      230
+    ],
+    [
+      "22px/24.2px w400",
+      14
+    ],
+    [
+      "13.68px/20px w500",
+      12
+    ],
+    [
+      "135.36px/128.592px w600",
+      11
+    ],
+    [
+      "93.6px/140.4px w600",
+      8
+    ],
+    [
+      "13.68px/20px w400",
+      8
+    ],
+    [
+      "86.4px/82.08px w600",
+      7
+    ],
+    [
+      "14px/20px w400",
+      5
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "23.04px/27.648px w600",
+      4
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "20.16px/29.232px w600",
+      2
+    ],
+    [
+      "16px/16px w400",
+      2
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(28, 33, 33)",
+      251
+    ],
+    [
+      "rgb(252, 247, 240)",
+      46
+    ],
+    [
+      "color(srgb 0.988235 0.968627 0.941176 / 0.55)",
+      8
+    ],
+    [
+      "rgba(28, 33, 33, 0.65)",
+      5
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ]
+  ],
+  "bodyBg": "rgb(252, 247, 240)",
+  "bgs": [
+    [
+      "rgb(28, 33, 33)",
+      7
+    ],
+    [
+      "rgb(252, 247, 240)",
+      1
+    ],
+    [
+      "rgba(221, 221, 221, 0)",
+      1
+    ],
+    [
+      "rgb(255, 222, 222)",
+      1
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 4357,
+  "images": 22,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "turns",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "out",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "great",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "taste",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "is",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "pretty",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "good",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "strategy",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "v",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": ",",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "w",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "'",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "v",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "d",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "k",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "b",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "p",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "p",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "v",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "b",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "i",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "f",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "i",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "g",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "k",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "b",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": ".",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "i",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "b",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "c",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "f",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "u",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "d",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": ".",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "i",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "'",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "p",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "p",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "b",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "i",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "d",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "f",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "u",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "d",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": ".",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "w",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "d",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "'",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "w",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "k",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "w",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "w",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "'",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "p",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "l",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "x",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": ".",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "w",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "'",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "j",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "u",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "s",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "p",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "p",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "k",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "n",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "w",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "b",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "f",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "y",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "g",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": ".",
+      "font": "\"Inter Tight\"",
+      "size": "48px",
+      "weight": "600",
+      "lh": "45.6px",
+      "ls": "-0.48px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "founding",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "engineer",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "program",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "some people join companies before anyone else does. founding",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FIRST NAME",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LAST NAME",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMAIL",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LINKEDIN",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "GITHUB",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY TO JOIN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "join",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "our",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "portfolio",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "today!",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "top 4 trending jobs below",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "monogram",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "ROLE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "DESIGNER",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "LOCATION",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "SAN MATEO",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY NOW ↗",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "agave games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "ROLE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GROWTH SPECIALIST (NEW GRAD)",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "LOCATION",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ISTANBUL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY NOW ↗",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "reflow",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "ROLE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI ENGINEER",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "LOCATION",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "REMOTE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY NOW ↗",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "fal",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "ROLE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "SOFTWARE ENGINEER, GROWTH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "LOCATION",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "SAN FRANCISCO",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY NOW ↗",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SAN FRANCISCO\n11:46 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "11:46 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "LONDON\n7:46 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "7:46 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ISTANBUL\n9:46 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "9:46 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FRIENDS",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TRIBE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TALENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CHILL",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CONTENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "IMPACT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TEAM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEXTGEN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLAIMER",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LINKEDIN ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMAIL ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PERKHUB ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "© 2026 E2VC",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "R TO RESET · HOLD SPACE FOR SPACEJUMP",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDER",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "COMPANY",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\nturns out great taste\nin friends is a pretty\ngood strategy\n\nover the years, we've learned that remarkable people have a habit of staying remarkable.\n\nsometimes they become founders. sometimes they're the people behind the founders. we don't always know what role they'll play next.\n\nwe're just happy to know them before they get there.\n\nfounding\nengineer\nprogram\n\nsome people join companies before anyone else does. founding engineers are those people. if that sounds familiar, we'd love to meet you.\n\nFIRST NAME\nLAST NAME\nEMAIL\nLINKEDIN\nGITHUB\nAPPLY TO JOIN\njoin our portfolio\ntoday!\n\ntop 4 trending jobs below\n\nmonogram\nROLE\nDESIGNER\nLOCATION\nSAN MATEO\nAPPLY NOW ↗\nagave games\nROLE\nGROWTH SPECIALIST (NEW GRAD)\nLOCATION\nISTANBUL\nAPPLY NOW ↗\nreflow\nROLE\nAI ENGINEER\nLOCATION\nREMOTE\nAPPLY NOW ↗\nfal\nROLE\nSOFTWARE ENGINEER, GROWTH\nLOCATION\nSAN FRANCISCO\nAPPLY NOW ↗\nSAN FRANCISCO\n11:46 AM\nLONDON\n7:46 PM\nISTANBUL\n9:46 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP\nFOUNDER\nCOMPANY"
+}

@@ -1,0 +1,1395 @@
+{
+  "title": "impact - e2vc",
+  "meta": [
+    {
+      "n": "description",
+      "c": "our reports, disclosures, and policies: the record of how we invest and the standards we hold ourselves to."
+    },
+    {
+      "n": "og:title",
+      "c": "impact - e2vc"
+    },
+    {
+      "n": "og:description",
+      "c": "our reports, disclosures, and policies: the record of how we invest and the standards we hold ourselves to."
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8325/6a3186e3868fbff1e37a83b2_OG%20Image.png"
+    },
+    {
+      "n": "twitter:title",
+      "c": "impact - e2vc"
+    },
+    {
+      "n": "twitter:description",
+      "c": "our reports, disclosures, and policies: the record of how we invest and the standards we hold ourselves to."
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DOWNLOAD IMPACT REPORT 2025",
+      "href": "https://docsend.com/view/vicve2pvvg825bic"
+    },
+    {
+      "text": "Read More",
+      "href": "https://withplum.com/"
+    },
+    {
+      "text": "Read More",
+      "href": "https://carbonhealth.com/"
+    },
+    {
+      "text": "Read More",
+      "href": "https://fazla.com/"
+    },
+    {
+      "text": "",
+      "href": "https://docsend.com/v/mxgnm/2025impactreport"
+    },
+    {
+      "text": "",
+      "href": "https://docsend.com/view/sawsczv5zg9zagwj"
+    },
+    {
+      "text": "",
+      "href": "https://docsend.com/view/3g6frvg7xct45i5b"
+    },
+    {
+      "text": "",
+      "href": "https://docsend.com/v/mxgnm/esgpolicy"
+    },
+    {
+      "text": "",
+      "href": "https://docsend.com/view/v9byu5wsyr2dd69q"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      90
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "22px/24.2px w400",
+      14
+    ],
+    [
+      "18px/20px w400",
+      14
+    ],
+    [
+      "24px/30px w500",
+      13
+    ],
+    [
+      "64px/76.8px w700",
+      10
+    ],
+    [
+      "93.6px/140.4px w600",
+      8
+    ],
+    [
+      "12.96px/20px w500",
+      5
+    ],
+    [
+      "64px/60.8px w600",
+      5
+    ],
+    [
+      "10px/10px w400",
+      5
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "32px/41.6px w700",
+      4
+    ],
+    [
+      "24px/33.6px w700",
+      3
+    ],
+    [
+      "16px/20px w400",
+      3
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "16px/16px w400",
+      2
+    ],
+    [
+      "15.84px/20px w500",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(252, 247, 240)",
+      47
+    ],
+    [
+      "rgb(28, 33, 33)",
+      41
+    ],
+    [
+      "rgba(28, 33, 33, 0.7)",
+      5
+    ],
+    [
+      "rgb(0, 0, 0)",
+      3
+    ],
+    [
+      "rgb(52, 81, 245)",
+      2
+    ]
+  ],
+  "bodyBg": "rgb(252, 247, 240)",
+  "bgs": [
+    [
+      "rgb(28, 33, 33)",
+      8
+    ],
+    [
+      "rgb(240, 233, 223)",
+      3
+    ],
+    [
+      "rgb(228, 252, 83)",
+      2
+    ],
+    [
+      "rgb(255, 111, 255)",
+      2
+    ],
+    [
+      "rgb(194, 148, 255)",
+      2
+    ],
+    [
+      "rgb(255, 80, 1)",
+      2
+    ],
+    [
+      "rgb(252, 247, 240)",
+      1
+    ],
+    [
+      "rgb(104, 0, 48)",
+      1
+    ],
+    [
+      "rgb(49, 254, 106)",
+      1
+    ],
+    [
+      "rgb(184, 203, 255)",
+      1
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 5283,
+  "images": 22,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDERS BUILD A BETTER TOMORROW",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.584px",
+      "tt": "uppercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "DIV",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "our reports, disclosures, and policies",
+      "font": "\"Inter Tight\"",
+      "size": "51.84px",
+      "weight": "600",
+      "lh": "53.9136px",
+      "ls": "-1.0368px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "the record of how we invest and the standards we hold oursel",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DOWNLOAD IMPACT REPORT 2025",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H2",
+      "text": "impact report celebrates the game changing successes of port",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "created e2.vc esg policy to guide our investment decisions i",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "01",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "screening",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "initial screening to highlight the key opportunities and ris",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "02",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "assesment",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "esg questionnaire to  assess the current stage and future ch",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "03",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "categorization",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "categorizing companies into 3 groups based on their size and",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "04",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "reporting",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "post-investment evaluations and annual reports to support ac",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "22%",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "women founders",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "across the portfolio with 56% of them having additional wome",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "16%",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "impact policies",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in place within portfolio, showing strong motivations toward",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "5756",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "jobs created",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in total of 9 years, contributing further to equitable insti",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H2",
+      "text": "from portfolio companies",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "plum",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "700",
+      "lh": "33.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "an app that empowers you to get your money motivated, lettin",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "A",
+      "text": "Read More",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "capitalize",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "DIV",
+      "text": "carbon health",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "700",
+      "lh": "33.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "a human-centered, tech-enabled healthcare company on a missi",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "A",
+      "text": "Read More",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "capitalize",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "DIV",
+      "text": "fazla",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "700",
+      "lh": "33.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "a technology-based, holistic waste management solution that ",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "A",
+      "text": "Read More",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "capitalize",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H2",
+      "text": "discover esg policy",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "REPORT",
+      "font": "\"Inter Tight\"",
+      "size": "12.96px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.0368px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.7)"
+    },
+    {
+      "tag": "P",
+      "text": "2025",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "600",
+      "lh": "60.8px",
+      "ls": "-1.28px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "REPORT",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "2025",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Impact",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Report",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "REPORT",
+      "font": "\"Inter Tight\"",
+      "size": "12.96px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.0368px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.7)"
+    },
+    {
+      "tag": "P",
+      "text": "2024",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "600",
+      "lh": "60.8px",
+      "ls": "-1.28px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "REPORT",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "2024",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Impact",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Report",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLOSURE",
+      "font": "\"Inter Tight\"",
+      "size": "12.96px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.0368px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.7)"
+    },
+    {
+      "tag": "P",
+      "text": "sfdr",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "600",
+      "lh": "60.8px",
+      "ls": "-1.28px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLOSURE",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SFDR",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Disclosure",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "POLICY",
+      "font": "\"Inter Tight\"",
+      "size": "12.96px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.0368px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.7)"
+    },
+    {
+      "tag": "P",
+      "text": "esg",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "600",
+      "lh": "60.8px",
+      "ls": "-1.28px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "POLICY",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ESG",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Policy",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DOCUMENT",
+      "font": "\"Inter Tight\"",
+      "size": "12.96px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.0368px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.7)"
+    },
+    {
+      "tag": "P",
+      "text": "grievance",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "600",
+      "lh": "60.8px",
+      "ls": "-1.28px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "POLICY",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "External",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Grievance",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Document",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SAN FRANCISCO\n11:47 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "11:47 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "LONDON\n7:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "7:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ISTANBUL\n9:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "9:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FRIENDS",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TRIBE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TALENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CHILL",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CONTENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "IMPACT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TEAM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEXTGEN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLAIMER",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LINKEDIN ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMAIL ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PERKHUB ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "© 2026 E2VC",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "R TO RESET · HOLD SPACE FOR SPACEJUMP",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDER",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "COMPANY",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\n\nFOUNDERS BUILD A BETTER TOMORROW\n\nimpact\n\nour reports, disclosures, and policies\n\nthe record of how we invest and the standards we hold ourselves to\n\nDOWNLOAD IMPACT REPORT 2025\nimpact report celebrates the game changing successes of portfolio companies\n\ncreated e2.vc esg policy to guide our investment decisions in 4 steps\n\n01\nscreening\n\ninitial screening to highlight the key opportunities and risks of the investment\n\n02\nassesment\n\nesg questionnaire to  assess the current stage and future changes within the company\n\n03\ncategorization\n\ncategorizing companies into 3 groups based on their size and alignment with  un sdgs: starter, qualifier, and highlight\n\n04\nreporting\n\npost-investment evaluations and annual reports to support accountable companies\n\n22%\nwomen founders\nacross the portfolio with 56% of them having additional women leaders in executive positions\n16%\nimpact policies\nin place within portfolio, showing strong motivations towards constant value creation\n5756\njobs created\nin total of 9 years, contributing further to equitable institution-building\nfrom portfolio companies\nplum\n\nan app that empowers you to get your money motivated, letting you save, spend, earn and invest in one app with ease\n\nRead More\ncarbon health\n\na human-centered, tech-enabled healthcare company on a mission to remove traditional boundaries in healthcare and make high-quality, personalized care accessible to everyone\n\nRead More\nfazla\n\na technology-based, holistic waste management solution that prevents waste generation at its source\n\nRead More\ndiscover esg policy\nREPORT\n\n2025\n\nREPORT\n2025 Impact Report\nREPORT\n\n2024\n\nREPORT\n2024 Impact Report\nDISCLOSURE\n\nsfdr\n\nDISCLOSURE\nSFDR Disclosure\nPOLICY\n\nesg\n\nPOLICY\nESG Policy\nDOCUMENT\n\ngrievance\n\nPOLICY\nExternal Grievance Document\nSAN FRANCISCO\n11:47 AM\nLONDON\n7:47 PM\nISTANBUL\n9:47 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP\nFOUNDER\nCOMPANY"
+}

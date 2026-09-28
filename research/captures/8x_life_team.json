@@ -1,0 +1,188 @@
+{
+  "title": "Team — 8x",
+  "meta": [
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "description",
+      "c": "250k+ people in 50+ countries, working in marketing, engineering and research. 8x Social for consumer brands, 8x LinkedIn for B2B, plus 8x Research, 8x Sales and 8x Hiring."
+    },
+    {
+      "n": "og:title",
+      "c": "8x — the human company"
+    },
+    {
+      "n": "og:description",
+      "c": "250k+ people in 50+ countries, working in marketing, engineering and research. 8x Social for consumer brands, 8x LinkedIn for B2B, plus 8x Research, 8x Sales and 8x Hiring."
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary"
+    },
+    {
+      "n": "twitter:title",
+      "c": "8x — the human company"
+    },
+    {
+      "n": "twitter:description",
+      "c": "250k+ people in 50+ countries, working in marketing, engineering and research. 8x Social for consumer brands, 8x LinkedIn for B2B, plus 8x Research, 8x Sales and 8x Hiring."
+    },
+    {
+      "n": "next-size-adjust",
+      "c": ""
+    }
+  ],
+  "links": [
+    {
+      "text": "←\nBACK",
+      "href": "https://8x.life/"
+    },
+    {
+      "text": "Jaka Bavdek",
+      "href": "https://jakabavdek.com/"
+    },
+    {
+      "text": "Theo Bui",
+      "href": "https://www.theobui.com/"
+    },
+    {
+      "text": "We're hiring.",
+      "href": "https://www.8x.careers/join"
+    }
+  ],
+  "fonts": [
+    [
+      "Newsreader, \"Newsreader Fallback\", \"Iowan Old Style\", Georgia, serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "12px/16.8px w500",
+      4
+    ],
+    [
+      "24px/30px w400",
+      2
+    ],
+    [
+      "48px/48px w400",
+      1
+    ],
+    [
+      "16px/26px w400",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgba(0, 0, 0, 0.5)",
+      4
+    ],
+    [
+      "rgb(0, 0, 0)",
+      4
+    ]
+  ],
+  "bodyBg": "rgb(255, 255, 255)",
+  "bgs": [],
+  "height": 677,
+  "images": 0,
+  "type": [
+    {
+      "tag": "A",
+      "text": "←\nBACK",
+      "font": "Newsreader",
+      "size": "12px",
+      "weight": "500",
+      "lh": "16.8px",
+      "ls": "2.16px",
+      "tt": "uppercase",
+      "color": "rgba(0, 0, 0, 0.5)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "←",
+      "font": "Newsreader",
+      "size": "12px",
+      "weight": "500",
+      "lh": "16.8px",
+      "ls": "2.16px",
+      "tt": "uppercase",
+      "color": "rgba(0, 0, 0, 0.5)"
+    },
+    {
+      "tag": "H1",
+      "text": "Team",
+      "font": "Newsreader",
+      "size": "48px",
+      "weight": "400",
+      "lh": "48px",
+      "ls": "-0.96px",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "A",
+      "text": "Jaka Bavdek",
+      "font": "Newsreader",
+      "size": "24px",
+      "weight": "400",
+      "lh": "30px",
+      "ls": "-0.48px",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "P",
+      "text": "CO-FOUNDER, CEO",
+      "font": "Newsreader",
+      "size": "12px",
+      "weight": "500",
+      "lh": "16.8px",
+      "ls": "2.16px",
+      "tt": "uppercase",
+      "color": "rgba(0, 0, 0, 0.5)"
+    },
+    {
+      "tag": "A",
+      "text": "Theo Bui",
+      "font": "Newsreader",
+      "size": "24px",
+      "weight": "400",
+      "lh": "30px",
+      "ls": "-0.48px",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "P",
+      "text": "CO-FOUNDER, CTO",
+      "font": "Newsreader",
+      "size": "12px",
+      "weight": "500",
+      "lh": "16.8px",
+      "ls": "2.16px",
+      "tt": "uppercase",
+      "color": "rgba(0, 0, 0, 0.5)"
+    },
+    {
+      "tag": "A",
+      "text": "We're hiring.",
+      "font": "Newsreader",
+      "size": "16px",
+      "weight": "400",
+      "lh": "26px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    }
+  ],
+  "text": "←\nBACK\nTeam\nJaka Bavdek\n\nCO-FOUNDER, CEO\n\nTheo Bui\n\nCO-FOUNDER, CTO\n\nWe're hiring."
+}

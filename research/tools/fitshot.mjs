@@ -1,0 +1,11 @@
+import puppeteer from 'puppeteer-core';
+const b = await puppeteer.launch({ executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', headless: 'new' });
+const p = await b.newPage(); await p.setViewport({ width: 1440, height: 1100 });
+await p.goto('http://localhost:4178/', { waitUntil: 'networkidle0' });
+await p.evaluate(() => { document.documentElement.style.scrollBehavior = 'auto'; document.querySelector('#fit-list').scrollIntoView({ block: 'start' }); scrollBy(0, -120); });
+await new Promise(r => setTimeout(r, 1500));
+const picks = ['yes', 'yes', 'no', 'yes', 'no', 'yes'];
+for (let i = 0; i < 6; i++) await p.click(`#fit-list .fit[data-i="${i}"] .choice[data-v="${picks[i]}"]`);
+await new Promise(r => setTimeout(r, 1200));
+await p.screenshot({ path: '../../review/fit-marked.png' });
+await b.close();

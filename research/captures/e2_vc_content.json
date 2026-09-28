@@ -1,0 +1,5061 @@
+{
+  "title": "content - e2vc",
+  "meta": [
+    {
+      "n": "description",
+      "c": "insights, conversations, and ideas for founders"
+    },
+    {
+      "n": "og:title",
+      "c": "content - e2vc"
+    },
+    {
+      "n": "og:description",
+      "c": "insights, conversations, and ideas for founders"
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8325/6a3186e3868fbff1e37a83b2_OG%20Image.png"
+    },
+    {
+      "n": "twitter:title",
+      "c": "content - e2vc"
+    },
+    {
+      "n": "twitter:description",
+      "c": "insights, conversations, and ideas for founders"
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/chapter-i-going-global-from-day-one---why-start-with-the-us"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/turkiye-a-global-powerhouse-in-gaming"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/eren-bali"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/gorkem"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/yc-application-review-is-now-open"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/two-nights-during-sf-tech-week"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/dronedeploy-joins-procore"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/herdr-raises-6m-seed-round"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/backing-the-next-generation-of-founders-nextgen"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/three-awards-for-loom-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/monogram-raises-40m-seed-round"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/bold-games-raises-6m-round"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/the-swarm-acquires-commsor"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/insider-one-acquires-bluecore"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/e2day-sessions-the-rise-of-turkish-gaming-powerhouse"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/beyond-gameplay"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/how-turkiye-became-a-gaming-hub"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/ozgun-erdogan-kaan-gunay"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/gorkem"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/eren-bali"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/balint-orosz-exit-right-after-college-life-of-a-serial-entrepreneur"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/log-life-2-0-a-serial-founder-in-the-observability-universe"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/whats-diifferent-for-a-second-time-entrepreneur-with-a-successful-exit"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/on-a-mission-to-create-a-fraud-free-world"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/community-fueled-low-touch-sales-to-scale-a-design-tool-from-hungary"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/from-aspired-to-accomplished-a-conversation-with-a-stripe-pm"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/path-to-net-zero"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/payment-solutions-to-rule-them-all"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/sonarhome-digitizing-the-home-purchase-process-in-cee"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/fighting-financial-crime-across-europe"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/building-a-category-defining-company-that-will-sustain-for-generations"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/building-a-team-and-setting-the-right-culture"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/technical-recruitment-and-what-not-to-miss"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/elevating-employee-mental-health-across-europe"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/creating-a-global-architecture-for-payroll"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/importance-of-healthy-unit-economics-and-sustainable-growth-in-the-current-market"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/multiplier-effect-in-an-ecosystem-after-creating-its-first-decacorn"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/business-levers-and-sales-channels-for-predictable-growth-in-saas"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/talent-management-psychology"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/rina-how-gaming-pulls-you-right-back-in"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/life-after-a-7m-seed-round"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/bootstrapping-a-gaming-company-all-the-way-to-a-300m-acquisition"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/defi-finansal-araclarin-dogru-sekilde-kitlelere-ulasmasi"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/kazim-rifat-ozyilmaz---arf"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/deniz-ozgur---space-runners"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/gokalp-urul---ango-ai"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/real-time-data-transformation"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/sinan-koc---bilira"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/menas-one-of-a-kind-venture-capital-landscape"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/learn-how-the-biggest-vc-fund-in-israel-is-rooting-for-impact-and-sustainability"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/miray-tayfun"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/hakan-bas"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/this-startup-aims-to-save-2-million-lives-a-year"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/legal-101-structuring-the-company-for-global-expansion"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/ebrd-vc-growth-equity-for-technology-companies-from-central-europe-to-central-asia"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/israel-ins-and-outs-of-the-startup-nation"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/t-opportunities-in-fintech-are-still-yet-to-come"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/sergiu-negut-on-fintechos"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/story-of-winding-down-a-business-after-raising-60m-and-the-future-of-food"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/akin-the-story-of-an-exit-and-a-mega-round-in-a-month"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/t-opportunities-in-mobility"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/sinan-guler-mvp-in-sports-tech"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/bretton-putter-learn-about-company-culture-from-the-leading-expert"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/meet-the-only-vc-focused-on-b2b-marketplaces"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/a-discussion-on-the-european-startup-scene-with-dragos-novac"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/bukalapak-creating-a-unicorn-out-of-indonesia"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/yemeksepeti-the-power-of-a-technical-co-founder-in-a-competitive-market"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/soldo-building-a-saas-platform-on-the-frontend-and-a-bank-in-the-backend"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/key-metrics-for-hockey-stick-growth-in-saas"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/all-about-the-startup-ecosystem-in-poland"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/story-of-a-solo-non-technical-founder-with-an-8b-ipo-followed-by-an-exit"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/iyzico-defeating-incumbents-to-become-the-leader-in-payments-in-a-market"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/honeypot-recruit-developers-in-under-4-weeks"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/nfx-investing-in-network-effects-as-a-pro-founder-firm"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/foundation-capital-all-about-grit-perseverance-and-resilience"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/how-you-type-is-who-you-are"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/project-a-leading-the-operational-vc-game-in-europe"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/lux-capital-investing-in-category-definining-frontier-industries"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/juro-software-is-eating-legal-work"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/funding-the-next-generation-of-portuguese-unicorns-after-creating-talkdesk"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/endeavor-building-emerging-market-ecosystems-from-ground-up-before-investing"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/playbook-to-scale-enterprise-software-from-emerging-ecosystems"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/crv-decades-of-experience-in-scaling-enterprise-software"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/credo-talent-arbitrage-from-central-europe-to-the-us"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/vc-fund-for-immigrants-by-immigrants"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/partech-being-early-in-ecosystems-that-dont-matter-to-others"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/mark-suster-leveraging-los-angeless-unique-selling-propositions"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/index-ventures-looking-for-a-new-generation-of-entrepreneurs"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/billiontoone-changing-the-early-detection-landcape-one-molecule-at-a-time"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/usv-thesis-driven-investing-for-building-conviction"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/firefly-deep-dive-into-hacking-the-investor-mindset"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/3d-look-first-steps-to-personalized-fashion-with-ai"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/jan-from-alfabeat-rise-of-operator-vcs-in-cee"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/pricefx-ready-for-the-us-after-settling-a-lawsuit-and-raising-eu50m"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/ragnar-not-just-another-estonian-unicorn-co-founder"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/jobbatical-future-of-work-meets-borderless-world"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/fite-aggregate-the-fragmented-long-tail-and-dominate"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/roland-pecsenye-digitizing-banks-all-the-way-until-the-exit"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/rina-full-circle-journey-of-entrepreneurship-and-investing"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/vladimir-oane-new-adventure-after-a-successful-exit-and-a-kid"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/peter-balogh-from-powering-auto-giants-to-angel-investing"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/insider-more-bullish-than-ever-to-dominate-globally"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/claimcompass-riding-on-regulations-in-a-10b-industry"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/content/10x-entrepreneur-eren-balis-idealistic-journey---part-i"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    },
+    {
+      "text": "text link",
+      "href": "https://e2.vc/content#"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      1125
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      9
+    ]
+  ],
+  "sizes": [
+    [
+      "21.6px/27px w500",
+      773
+    ],
+    [
+      "12px/12px w400",
+      202
+    ],
+    [
+      "11px/11px w500",
+      100
+    ],
+    [
+      "21.6px/25.92px w600",
+      19
+    ],
+    [
+      "22px/24.2px w400",
+      13
+    ],
+    [
+      "93.6px/140.4px w600",
+      9
+    ],
+    [
+      "10px/10px w400",
+      6
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "16px/16px w400",
+      2
+    ],
+    [
+      "135.36px/128.592px w600",
+      1
+    ],
+    [
+      "20.16px/29.232px w600",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(28, 33, 33)",
+      781
+    ],
+    [
+      "rgb(252, 247, 240)",
+      252
+    ],
+    [
+      "color(srgb 0.109804 0.129412 0.129412 / 0.55)",
+      100
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ]
+  ],
+  "bodyBg": "rgb(28, 33, 33)",
+  "bgs": [
+    [
+      "rgb(28, 33, 33)",
+      204
+    ],
+    [
+      "rgba(28, 33, 33, 0.1)",
+      100
+    ],
+    [
+      "rgb(252, 247, 240)",
+      12
+    ],
+    [
+      "rgba(255, 255, 255, 0.07)",
+      4
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 15092,
+  "images": 117,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "insights, conversations, and ideas for founders",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "ARTICLE",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.4px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "ARTICLE",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.4px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Türkiye:",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "A",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Global",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Powerhouse",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Gaming",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.4px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.4px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Learnings",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "From",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Building",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Two",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Unicorns",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.4px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "10px",
+      "weight": "400",
+      "lh": "10px",
+      "ls": "0.4px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Scaling",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "to",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "$50M",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ARR",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "One",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Year:",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Fal",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "600",
+      "lh": "25.92px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "EVENTS & PROGRAMS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "YC",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Application",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Review",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Is",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Now",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Open",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "EVENTS & PROGRAMS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Two",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Nights",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "During",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SF",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Tech",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Week",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "PORTFOLIO NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "DroneDeploy",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Joins",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Procore",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "PORTFOLIO NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Herdr",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Raises",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "$6M",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Seed",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Round",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "EVENTS & PROGRAMS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Backing",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Next",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Generation",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Founders:",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "NextGen",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "PORTFOLIO NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Three",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Awards",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Loom",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Games",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "PORTFOLIO NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Monogram",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Raises",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "$40M",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Seed",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Round",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "PORTFOLIO NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Bold",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Games",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Raises",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "$6M",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Round",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "PORTFOLIO NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "The",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Swarm",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Acquires",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Commsor",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "PORTFOLIO NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Insider",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "One",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Acquires",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Bluecore",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "The",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Rise",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Turkish",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Gaming",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Powerhouse",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Beyond",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Gameplay",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "How",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Türkiye",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Became",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Gaming",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Hub",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Going",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Global",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "with",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Turkish",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Engineering",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Power",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Scaling",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "to",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "$50M",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ARR",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "One",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Year:",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Fal",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Learnings",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "From",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Building",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Two",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Unicorns",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "PODCAST",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PODCAST",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Exit",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Right",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "After",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "College,",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Life",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "A",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Serial",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Entrepreneur",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Log",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Life",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "2.0:",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "A",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Serial",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Founder",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Observability",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Universe",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "What's",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Different",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Second",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Time",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Entrepreneur",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "with",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Successful",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Exit",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "On",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "A",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Mission",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "To",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Create",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "A",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Fraud-Free",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "World",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Community",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Fueled",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Low",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Touch",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Sales",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "to",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Scale",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Design",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Tool",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "From",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Hungary",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "PODCAST",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PODCAST",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "From",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Aspired",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "To",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Accomplished:",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Conversation",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "with",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Stripe",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "PM",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Path",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "to",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Net",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Zero",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Payment",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Solutions",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "to",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Rule",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Them",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "All",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Sonarhome:",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Digitizing",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Home",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Purchase",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Process",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "CEE",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Fighting",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Financial",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Crime",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Across",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Europe",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Building",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Category-Defining",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Company",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "That",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Will",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Sustain",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Generations",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Building",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Team",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "and",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Setting",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Right",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Culture",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Technical",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Recruitment",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "and",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "What",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "not",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "to",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Miss",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Elevating",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Employee",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Mental",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Health",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Across",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Europe",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Creating",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Global",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Architecture",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Payroll",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Importance",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Healthy",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Unit",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Economics",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "and",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Sustainable",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Growth",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Current",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Market",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "INVESTING",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Multiplier",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Effect",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "an",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Ecosystem",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "After",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Creating",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Its",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "First",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Decacorn",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Business",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Levers",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "and",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Sales",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Channels",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Predictable",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Growth",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SaaS",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Talent",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Management",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "&",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Psychology",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "How",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Gaming",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Pulls",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "You",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Right",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Back",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "FOUNDER JOURNEY",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "12px",
+      "ls": "0.48px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VIDEO",
+      "font": "\"Inter Tight\"",
+      "size": "11px",
+      "weight": "500",
+      "lh": "11px",
+      "ls": "0.88px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.109804 0.129412 0.129412 / 0.55)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Life",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "After",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "$7M",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Seed",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Round",
+      "font": "\"Inter Tight\"",
+      "size": "21.6px",
+      "weight": "500",
+      "lh": "27px",
+      "ls": "-0.216px",
+      "tt": "none",
+      "color": "rgb(28, 33, 33)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\ncontent\n\ninsights, conversations, and ideas for founders\n\nFOUNDER JOURNEY\n\nARTICLE\n\nGAMING\nARTICLE\nTürkiye: A Global Powerhouse in\nGaming\nFOUNDER JOURNEY\nVIDEO\nLearnings From Building Two Unicorns\nFOUNDER JOURNEY\nVIDEO\nScaling to $50M ARR in One Year: Fal\ncategories\nfounder journey\ninvesting\ngaming\nportfolio news\nevents & programs\ntype\npodcast\narticle\nnews\nvideo\n\nEVENTS & PROGRAMS\n\nNEWS\n\nNEWS\nYC Application Review Is Now Open\n\nEVENTS & PROGRAMS\n\nNEWS\n\nNEWS\nTwo Nights During SF Tech Week\n\nPORTFOLIO NEWS\n\nNEWS\n\nNEWS\nDroneDeploy Joins Procore\n\nPORTFOLIO NEWS\n\nNEWS\n\nNEWS\nHerdr Raises $6M Seed Round\n\nEVENTS & PROGRAMS\n\nNEWS\n\nNEWS\nBacking the Next Generation of Founders:\nNextGen\n\nPORTFOLIO NEWS\n\nNEWS\n\nNEWS\nThree Awards for Loom Games\n\nPORTFOLIO NEWS\n\nNEWS\n\nNEWS\nMonogram Raises $40M Seed Round\n\nPORTFOLIO NEWS\n\nNEWS\n\nNEWS\nBold Games Raises $6M Round\n\nPORTFOLIO NEWS\n\nNEWS\n\nNEWS\nThe Swarm Acquires Commsor\n\nPORTFOLIO NEWS\n\nNEWS\n\nNEWS\nInsider One Acquires Bluecore\n\nGAMING\n\nVIDEO\n\nVIDEO\nThe Rise of Turkish Gaming Powerhouse\n\nGAMING\n\nVIDEO\n\nVIDEO\nBeyond Gameplay\n\nGAMING\n\nVIDEO\n\nVIDEO\nHow Türkiye Became a Gaming Hub\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nGoing Global with Turkish Engineering Power\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nScaling to $50M ARR in One Year: Fal\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nLearnings From Building Two Unicorns\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nExit Right After College, Life of A Serial\nEntrepreneur\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nLog Life 2.0: A Serial Founder in the\nObservability Universe\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nWhat's Different for a Second Time\nEntrepreneur with a Successful Exit\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nOn A Mission To Create A Fraud-Free World\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nCommunity Fueled Low Touch Sales to Scale\na Design Tool From Hungary\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nFrom Aspired To Accomplished: a\nConversation with a Stripe PM\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nPath to Net Zero\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nPayment Solutions to Rule Them All\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nSonarhome: Digitizing the Home Purchase\nProcess in CEE\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nFighting Financial Crime Across Europe\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nBuilding a Category-Defining Company That\nWill Sustain for Generations\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nBuilding a Team and Setting the Right Culture\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nTechnical Recruitment and What not to Miss\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nElevating Employee Mental Health Across\nEurope\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nCreating a Global Architecture for Payroll\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nImportance of Healthy Unit Economics and\nSustainable Growth in the Current Market\n\nINVESTING\n\nVIDEO\n\nVIDEO\nMultiplier Effect in an Ecosystem After\nCreating Its First Decacorn\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nBusiness Levers and Sales Channels for\nPredictable Growth in SaaS\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nTalent Management & Psychology\n\nGAMING\n\nVIDEO\n\nVIDEO\nHow Gaming Pulls You Right Back in\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nLife After a $7M Seed Round\n\nGAMING\n\nVIDEO\n\nVIDEO\nBootstrapping a Gaming Company All the\nWay to a $300M Acquisition\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nDeFi: Finansal Araçların Doğru Şekilde\nKitlelere Ulaşması\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nKüreselleşmenin Yeni Bacağı, Uluslararası\nPara\n\nGAMING\n\nVIDEO\n\nVIDEO\nMetaverse'de Çıplak Ayak Mı Kalacağız?\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nVeriler Etiketlendikçe, Yapay Zeka Yazılımın\nÖnüne Geçiyor\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nGerçek Zamanlı Veri Dönüşümü\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\n\nINVESTING\n\nPODCAST\n\nPODCAST\nMENA's One of a Kind Venture Capital\nLandscape\n\nINVESTING\n\nPODCAST\n\nPODCAST\nLearn How the Biggest VC Fund in Israel is\nRooting for Impact and Sustainability\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nVivoo'nun Başarısı: Sağlık Verilerinizin Çoğu\nİdrarınızda Gizli\n\nGAMING\n\nVIDEO\n\nVIDEO\nAce Games: Mobil Oyun Dünyasının Yeni\nOyuncusu\n\nFOUNDER JOURNEY\n\nVIDEO\n\nVIDEO\nThis Startup Aims to Save 2 Million Lives a\nYear\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nLegal 101: Structuring the Company for Global\nExpansion\n\nINVESTING\n\nPODCAST\n\nPODCAST\nEBRD VC: Growth Equity for Technology\nCompanies From Central Europe to Central\nAsia\n\nINVESTING\n\nPODCAST\n\nPODCAST\nIsrael: Ins and Outs of the Startup Nation\n\nINVESTING\n\nPODCAST\n\nPODCAST\n$T Opportunities in Fintech Are Still Yet to\nCome\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nFintechOS: From Bucharest to the US\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nStory of Winding Down a Business After\nRaising $60M and the Future of Food\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nThe Story of an Exit and a Mega Round in a\nMonth\n\nINVESTING\n\nPODCAST\n\nPODCAST\n$T Opportunities in Mobility\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nMVP in Sports Tech\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nLearn About Company Culture from the\nLeading Expert\n\nINVESTING\n\nPODCAST\n\nPODCAST\nMeet the Only VC Focused on B2B\nMarketplaces\n\nINVESTING\n\nPODCAST\n\nPODCAST\nA Discussion on the European Startup Scene\nwith Dragos Novac\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nBukalapak: Creating a Unicorn Out of\nIndonesia\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nYemekSepeti: The Power of a Technical\nCo-Founder in a Competitive Market\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nSoldo: Building a SaaS Platform on the\nFrontend and a Bank in the Backend\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nKey Metrics for Hockey Stick Growth in SaaS\n\nINVESTING\n\nPODCAST\n\nPODCAST\nAll About the Startup Ecosystem in Poland\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nStory of a Solo Non-Technical Founder with\nan $8B IPO, Followed by an Exit\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nIyzico: Defeating Incumbents to Become the\nLeader in Payments in a Market\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nHoneypot: Recruit Developers in Under 4\nWeeks\n\nINVESTING\n\nPODCAST\n\nPODCAST\nNFX: Investing in Network Effects as a\nPro-Founder Firm\n\nINVESTING\n\nPODCAST\n\nPODCAST\nFoundation Capital: All About Grit,\nPerseverance, and Resilience\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nHow You Type is Who You Are\n\nINVESTING\n\nPODCAST\n\nPODCAST\nProject A: Leading the Operational VC Game\nin Europe\n\nINVESTING\n\nPODCAST\n\nPODCAST\nLux Capital: Investing in Category Definining,\nFrontier Industries\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nJuro: Software is Eating Legal Work\n\nINVESTING\n\nPODCAST\n\nPODCAST\nFunding the Next Generation of Portuguese\nUnicorns After Creating Talkdesk\n\nINVESTING\n\nPODCAST\n\nPODCAST\nEndeavor: Building Emerging Market\nEcosystems from Ground Up Before Investing\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nPlaybook to Scale Enterprise Software From\nEmerging Ecosystems\n\nINVESTING\n\nPODCAST\n\nPODCAST\nCRV: Decades of Experience in Scaling\nEnterprise Software\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nCredo: Talent Arbitrage from Central Europe\nto the US\n\nINVESTING\n\nPODCAST\n\nPODCAST\nVC Fund For Immigrants By Immigrants\n\nINVESTING\n\nPODCAST\n\nPODCAST\nPartech: Being Early in Ecosystems That\nDon't Matter to Others\n\nINVESTING\n\nPODCAST\n\nPODCAST\nLeveraging Los Angeles's Unique Selling\nPropositions\n\nINVESTING\n\nPODCAST\n\nPODCAST\nIndex Ventures: Looking for a New Generation\nof Entrepreneurs\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nBillionToOne: Changing the Early Detection\nLandcape One Molecule at a Time\n\nINVESTING\n\nPODCAST\n\nPODCAST\nUSV: Thesis Driven Investing for Building\nConviction\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nFirefly: Deep Dive Into Hacking The Investor\nMindset\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\n3D Look: First Steps to Personalized Fashion\nwith AI\n\nINVESTING\n\nPODCAST\n\nPODCAST\nRise of Operator VCs in CEE\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nPriceFX: Ready for the US after settling a\nlawsuit and raising €50M\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nNot Just Another Estonian Unicorn\nCo-Founder\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nJobbatical: Future of Work Meets Borderless\nWorld\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nFITE: Aggregate The Fragmented Long Tail\nand Dominate\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nDigitizing Banks All the Way Until the Exit\n\nINVESTING\n\nPODCAST\n\nPODCAST\nFull Circle Journey of Entrepreneurship and\nInvesting\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nNew Adventure After a Successful Exit and a\nKid\n\nINVESTING\n\nPODCAST\n\nPODCAST\nFrom Powering Auto Giants to Angel Investing\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nInsider: More Bullish Than Ever to Dominate\nGlobally\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\nClaimCompass: Riding on Regulations in a\n$10B Industry\n\nFOUNDER JOURNEY\n\nPODCAST\n\nPODCAST\n10X Entrepreneur: Eren Bali's Idealistic\nJourney - Part I\nSAN FRANCISCO\n11:46 AM\nLONDON\n7:46 PM\nISTANBUL\n9:46 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP\nFOUNDER\nCOMPANY\ntext link"
+}

@@ -1,0 +1,832 @@
+{
+  "title": "What is 8x? | 8x Hiring",
+  "meta": [
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "description",
+      "c": "8x is a human orchestration company. Wherever there is a human in the loop, 8x supplies, evaluates and pays that person."
+    },
+    {
+      "n": "og:title",
+      "c": "8x Hiring"
+    },
+    {
+      "n": "og:description",
+      "c": "Build your portfolio and get feedback while applying to roles at 8x and companies we partner with."
+    },
+    {
+      "n": "og:site_name",
+      "c": "8x Hiring"
+    },
+    {
+      "n": "og:locale",
+      "c": "en"
+    },
+    {
+      "n": "og:image",
+      "c": "https://www.8x.careers/opengraph-image?e31ee38e5a6bf7ef"
+    },
+    {
+      "n": "og:image:type",
+      "c": "image/png"
+    },
+    {
+      "n": "og:image:width",
+      "c": "1200"
+    },
+    {
+      "n": "og:image:height",
+      "c": "630"
+    },
+    {
+      "n": "og:image:alt",
+      "c": "8x Hiring: build your portfolio while you apply"
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "twitter:title",
+      "c": "8x Hiring"
+    },
+    {
+      "n": "twitter:description",
+      "c": "Build your portfolio and get feedback while applying to roles at 8x and companies we partner with."
+    },
+    {
+      "n": "twitter:image",
+      "c": "https://www.8x.careers/opengraph-image?e31ee38e5a6bf7ef"
+    },
+    {
+      "n": "twitter:image:alt",
+      "c": "8x Hiring: build your portfolio while you apply"
+    },
+    {
+      "n": "twitter:image:type",
+      "c": "image/png"
+    },
+    {
+      "n": "twitter:image:width",
+      "c": "1200"
+    },
+    {
+      "n": "twitter:image:height",
+      "c": "630"
+    },
+    {
+      "n": "next-size-adjust",
+      "c": ""
+    }
+  ],
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "https://www.8x.careers/about#main"
+    },
+    {
+      "text": "Hiring for your team?Hire with 8x",
+      "href": "https://www.8x.careers/client"
+    },
+    {
+      "text": "Careers",
+      "href": "https://www.8x.careers/"
+    },
+    {
+      "text": "Open roles",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "Portfolios",
+      "href": "https://www.8x.careers/portfolios"
+    },
+    {
+      "text": "Referrals",
+      "href": "https://www.8x.careers/referrals"
+    },
+    {
+      "text": "About",
+      "href": "https://www.8x.careers/about"
+    },
+    {
+      "text": "Login",
+      "href": "https://www.8x.careers/auth/sign-in"
+    },
+    {
+      "text": "Login",
+      "href": "https://www.8x.careers/auth/sign-in"
+    },
+    {
+      "text": "Hire with 8x",
+      "href": "https://www.8x.careers/client"
+    },
+    {
+      "text": "Find your role",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "8x Social",
+      "href": "https://8x.social/"
+    },
+    {
+      "text": "8x Sales",
+      "href": "https://8x.sale/"
+    },
+    {
+      "text": "8x Business",
+      "href": "https://8x.business/"
+    },
+    {
+      "text": "8x Research",
+      "href": "https://8xresearch.com/"
+    },
+    {
+      "text": "Jaka Bavdek’s site",
+      "href": "https://jakabavdek.com/"
+    },
+    {
+      "text": "Theo Bui’s site",
+      "href": "https://theobui.com/"
+    },
+    {
+      "text": "See Open Roles",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "Find your role",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "",
+      "href": "https://www.8x.careers/"
+    },
+    {
+      "text": "Open roles",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "Portfolios",
+      "href": "https://www.8x.careers/portfolios"
+    },
+    {
+      "text": "Referrals",
+      "href": "https://www.8x.careers/referrals"
+    },
+    {
+      "text": "About 8x",
+      "href": "https://www.8x.careers/about"
+    },
+    {
+      "text": "Back to the beginning",
+      "href": "https://www.8x.careers/about#main"
+    }
+  ],
+  "fonts": [
+    [
+      "Geist, Arial, sans-serif",
+      40
+    ],
+    [
+      "\"Instrument Serif\", Georgia, serif",
+      9
+    ]
+  ],
+  "sizes": [
+    [
+      "13px/19.5px w400",
+      11
+    ],
+    [
+      "12px/18px w400",
+      7
+    ],
+    [
+      "72px/74.88px w400",
+      6
+    ],
+    [
+      "16px/27.2px w400",
+      6
+    ],
+    [
+      "16px/24px w400",
+      4
+    ],
+    [
+      "23px/29.9px w400",
+      4
+    ],
+    [
+      "14px/23.1px w400",
+      4
+    ],
+    [
+      "43px/44.72px w400",
+      2
+    ],
+    [
+      "14px/21px w400",
+      2
+    ],
+    [
+      "96px/99.84px w400",
+      1
+    ],
+    [
+      "26px/39px w400",
+      1
+    ],
+    [
+      "16px/22.4px w400",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(37, 39, 34)",
+      24
+    ],
+    [
+      "rgb(240, 240, 235)",
+      12
+    ],
+    [
+      "rgb(85, 94, 77)",
+      7
+    ],
+    [
+      "rgb(255, 255, 255)",
+      3
+    ],
+    [
+      "rgb(181, 186, 170)",
+      3
+    ]
+  ],
+  "bodyBg": "rgb(252, 251, 246)",
+  "bgs": [
+    [
+      "rgb(37, 39, 34)",
+      5
+    ],
+    [
+      "rgb(240, 240, 235)",
+      3
+    ],
+    [
+      "rgb(199, 61, 32)",
+      2
+    ]
+  ],
+  "height": 3492,
+  "images": 7,
+  "type": [
+    {
+      "tag": "A",
+      "text": "Skip to content",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Careers",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Open roles",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Portfolios",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Referrals",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Login",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Hire with 8x",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "A",
+      "text": "Find your role",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "H1",
+      "text": "What is 8x?",
+      "font": "\"Instrument Serif\"",
+      "size": "96px",
+      "weight": "400",
+      "lh": "99.84px",
+      "ls": "-3.36px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "8x is a human orchestration company. Wherever there is a hum",
+      "font": "Geist",
+      "size": "26px",
+      "weight": "400",
+      "lh": "39px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "Remote-first, built from San Francisco.",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(85, 94, 77)"
+    },
+    {
+      "tag": "H2",
+      "text": "How the company is organised",
+      "font": "\"Instrument Serif\"",
+      "size": "72px",
+      "weight": "400",
+      "lh": "74.88px",
+      "ls": "-2.52px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "The company is organised into verticals. Each one has a vert",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "27.2px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "Every vertical runs on the same underlying principle. A larg",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "27.2px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "Each new vertical inherits the architecture and the experien",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "27.2px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "The aim is billions of people under management on 8x platfor",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "H2",
+      "text": "What has been built",
+      "font": "\"Instrument Serif\"",
+      "size": "72px",
+      "weight": "400",
+      "lh": "74.88px",
+      "ls": "-2.52px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "A",
+      "text": "8x Social",
+      "font": "Geist",
+      "size": "23px",
+      "weight": "400",
+      "lh": "29.9px",
+      "ls": "-0.46px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "A managed creator network. More than 250,000 creators across",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "400",
+      "lh": "23.1px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(85, 94, 77)"
+    },
+    {
+      "tag": "A",
+      "text": "8x Sales",
+      "font": "Geist",
+      "size": "23px",
+      "weight": "400",
+      "lh": "29.9px",
+      "ls": "-0.46px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "A remote sales floor. People learn to sell on real calls wit",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "400",
+      "lh": "23.1px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(85, 94, 77)"
+    },
+    {
+      "tag": "A",
+      "text": "8x Business",
+      "font": "Geist",
+      "size": "23px",
+      "weight": "400",
+      "lh": "29.9px",
+      "ls": "-0.46px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "A B2B creator marketplace. Brands brief vetted LinkedIn crea",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "400",
+      "lh": "23.1px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(85, 94, 77)"
+    },
+    {
+      "tag": "A",
+      "text": "8x Research",
+      "font": "Geist",
+      "size": "23px",
+      "weight": "400",
+      "lh": "29.9px",
+      "ls": "-0.46px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "AI-moderated user research. Hundreds of one-to-one interview",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "400",
+      "lh": "23.1px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(85, 94, 77)"
+    },
+    {
+      "tag": "H2",
+      "text": "The founders",
+      "font": "\"Instrument Serif\"",
+      "size": "72px",
+      "weight": "400",
+      "lh": "74.88px",
+      "ls": "-2.52px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "H3",
+      "text": "Jaka Bavdek",
+      "font": "\"Instrument Serif\"",
+      "size": "43px",
+      "weight": "400",
+      "lh": "44.72px",
+      "ls": "-1.505px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "Co-founder and CEO",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(85, 94, 77)"
+    },
+    {
+      "tag": "P",
+      "text": "Originally from Slovenia. Has lived in London, Singapore, In",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "27.2px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "A",
+      "text": "Jaka Bavdek’s site",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "H3",
+      "text": "Theo Bui",
+      "font": "\"Instrument Serif\"",
+      "size": "43px",
+      "weight": "400",
+      "lh": "44.72px",
+      "ls": "-1.505px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "Co-founder and CTO",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(85, 94, 77)"
+    },
+    {
+      "tag": "P",
+      "text": "French-American, based in San Francisco. Has built robotic a",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "27.2px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "A",
+      "text": "Theo Bui’s site",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "The two met at Entrepreneur First, over a shared view of wha",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "27.2px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "H2",
+      "text": "Work here",
+      "font": "\"Instrument Serif\"",
+      "size": "72px",
+      "weight": "400",
+      "lh": "74.88px",
+      "ls": "-2.52px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "Roles at 8x and the companies we partner with.",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "22.4px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "A",
+      "text": "See Open Roles",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "400",
+      "lh": "21px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "Find a role\nand send us your work.",
+      "font": "\"Instrument Serif\"",
+      "size": "72px",
+      "weight": "400",
+      "lh": "74.88px",
+      "ls": "-2.52px",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "EM",
+      "text": "and send us your work.",
+      "font": "\"Instrument Serif\"",
+      "size": "72px",
+      "weight": "400",
+      "lh": "74.88px",
+      "ls": "-2.52px",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Find your role",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "400",
+      "lh": "21px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "A",
+      "text": "Open roles",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Portfolios",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Referrals",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "About 8x",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "P",
+      "text": "Remote-first,\nbuilt from San Francisco.",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(181, 186, 170)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "8x Careers",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(181, 186, 170)"
+    },
+    {
+      "tag": "A",
+      "text": "Back to the beginning",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(181, 186, 170)"
+    }
+  ],
+  "text": "Skip to content\nCareers\nOpen roles\nPortfolios\nReferrals\nAbout\nLogin\nHire with 8x\nFind your role\nWhat is 8x?\n\n8x is a human orchestration company. Wherever there is a human in the loop, 8x supplies that person, evaluates the work and pays for it, across marketing, engineering and sales.\n\nRemote-first, built from San Francisco.\n\nHow the company is organised\n\nThe company is organised into verticals. Each one has a vertical lead whose focus is the value a single person can bring in that specific use case.\n\nEvery vertical runs on the same underlying principle. A large number of people are orchestrated and evaluated against one key metric for that vertical: virality potential in marketing, meetings booked in sales.\n\nEach new vertical inherits the architecture and the experience of the ones before it, so every one starts further along than the last.\n\nThe aim is billions of people under management on 8x platforms, and a different idea of what work is.\n\nWhat has been built\n8x Social\n\nA managed creator network. More than 250,000 creators across 50 countries make organic video for brands, with no ad spend behind it.\n\n8x Sales\n\nA remote sales floor. People learn to sell on real calls with live coaching, and are paid per booking and per qualified meeting.\n\n8x Business\n\nA B2B creator marketplace. Brands brief vetted LinkedIn creators and follow the work from impressions through to closed deals.\n\n8x Research\n\nAI-moderated user research. Hundreds of one-to-one interviews run in parallel and come back as ranked themes with the quotes behind them.\n\nThe founders\nJaka Bavdek\n\nCo-founder and CEO\n\nOriginally from Slovenia. Has lived in London, Singapore, India and Berlin, and took a master’s degree in London. Started a first company at 17; one of those early companies became a market leader in Slovenia. Founded Epistemy and e-Matura before 8x. Now based in San Francisco.\n\nJaka Bavdek’s site\nTheo Bui\n\nCo-founder and CTO\n\nFrench-American, based in San Francisco. Has built robotic arms, software and ride-sharing apps.\n\nTheo Bui’s site\n\nThe two met at Entrepreneur First, over a shared view of what building in the AI era takes: that distribution is becoming the most important thing a company has.\n\nWork here\n\nRoles at 8x and the companies we partner with.\n\nSee Open Roles\nFind a role\nand send us your work.\nFind your role\nOpen roles\nPortfolios\nReferrals\nAbout 8x\n\nRemote-first,\nbuilt from San Francisco.\n\n8x Careers\nBack to the beginning"
+}

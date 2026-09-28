@@ -1,0 +1,852 @@
+{
+  "title": "Fal - e2vc",
+  "meta": [
+    {
+      "n": "description",
+      "c": "a generative media platform that turbocharges developers to craft blazing-fast AI applications."
+    },
+    {
+      "n": "og:title",
+      "c": "Fal - e2vc"
+    },
+    {
+      "n": "og:description",
+      "c": "a generative media platform that turbocharges developers to craft blazing-fast AI applications."
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8327/6a3d2827d855a8ea0d24b449_6a3186e3868fbff1e37a851d_fal-friends.jpeg"
+    },
+    {
+      "n": "twitter:title",
+      "c": "Fal - e2vc"
+    },
+    {
+      "n": "twitter:description",
+      "c": "a generative media platform that turbocharges developers to craft blazing-fast AI applications."
+    },
+    {
+      "n": "twitter:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8327/6a3d2827d855a8ea0d24b449_6a3186e3868fbff1e37a851d_fal-friends.jpeg"
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/founders"
+    },
+    {
+      "text": "VISIT WEBSITE↗",
+      "href": "https://fal.ai/"
+    },
+    {
+      "text": "BURKAY GUR",
+      "href": "https://test/"
+    },
+    {
+      "text": "fal raises $140m series d at $4.5b valuation\nNEWS",
+      "href": "https://blog.fal.ai/our-series-d-scaling-fal"
+    },
+    {
+      "text": "fal.ai raises $250m at $4b valuation to expand multimodal ai infrastructure\nNEWS",
+      "href": "https://aibusinessweekly.net/p/fal-ai-raises-250m-series-funding-multimodal-ai-infrastructure"
+    },
+    {
+      "text": "fal raises $125 million, valuing company at $1.5 billion\nNEWS",
+      "href": "https://www.reuters.com/business/ai-infrastructure-company-fal-raises-125-million-valuing-company-15-billion-2025-07-31/"
+    },
+    {
+      "text": "fal, generative media platform for developers, raises $49 million series b\nNEWS",
+      "href": "https://blog.fal.ai/fal-raises-49m-series-b-to-power-the-future-of-ai-video/"
+    },
+    {
+      "text": "training flux style lora on fal\nNEWS",
+      "href": "https://blog.fal.ai/training-flux-style-lora-on-fal-ai"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      45
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "22px/24.2px w400",
+      19
+    ],
+    [
+      "93.6px/140.4px w600",
+      8
+    ],
+    [
+      "12px/20px w400",
+      7
+    ],
+    [
+      "23.04px/27.648px w600",
+      5
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "16px/16px w400",
+      2
+    ],
+    [
+      "22px/26.4px w400",
+      1
+    ],
+    [
+      "120px/110.4px w600",
+      1
+    ],
+    [
+      "20.16px/29.232px w600",
+      1
+    ],
+    [
+      "56px/57.12px w600",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(252, 247, 240)",
+      31
+    ],
+    [
+      "rgb(28, 33, 33)",
+      20
+    ],
+    [
+      "rgba(28, 33, 33, 0.45)",
+      2
+    ]
+  ],
+  "bodyBg": "rgb(252, 247, 240)",
+  "bgs": [
+    [
+      "rgba(28, 33, 33, 0.07)",
+      5
+    ],
+    [
+      "rgb(28, 33, 33)",
+      3
+    ],
+    [
+      "rgb(252, 247, 240)",
+      1
+    ],
+    [
+      "rgba(28, 33, 33, 0.08)",
+      1
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 3085,
+  "images": 19,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FRIENDS",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "26.4px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H1",
+      "text": "fal",
+      "font": "\"Inter Tight\"",
+      "size": "120px",
+      "weight": "600",
+      "lh": "110.4px",
+      "ls": "-2.4px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "a generative media platform that turbocharges developers to ",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "VISIT WEBSITE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDERS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.2px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.45)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "BURKAY GUR",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "GORKEM YURTSEVEN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LOCATION",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.2px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.45)"
+    },
+    {
+      "tag": "P",
+      "text": "TURKIYE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "UNITED STATES",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H2",
+      "text": "related articles",
+      "font": "\"Inter Tight\"",
+      "size": "56px",
+      "weight": "600",
+      "lh": "57.12px",
+      "ls": "-0.84px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "fal raises $140m series d at $4.5b valuation",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.96px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "fal.ai raises $250m at $4b valuation to expand multimodal ai",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.96px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "fal raises $125 million, valuing company at $1.5 billion",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.96px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "fal, generative media platform for developers, raises $49 mi",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.96px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "training flux style lora on fal",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "NEWS",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.96px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SAN FRANCISCO\n11:47 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "11:47 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "LONDON\n7:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "7:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ISTANBUL\n9:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "9:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FRIENDS",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TRIBE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TALENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CHILL",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CONTENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "IMPACT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TEAM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEXTGEN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLAIMER",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LINKEDIN ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMAIL ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PERKHUB ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "© 2026 E2VC",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "R TO RESET · HOLD SPACE FOR SPACEJUMP",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDER",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "COMPANY",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\nFRIENDS\nfal\n\na generative media platform that turbocharges developers to craft blazing-fast ai applications.\n\nVISIT WEBSITE↗\nFOUNDERS\n\nBURKAY GUR\n\nGORKEM YURTSEVEN\n\nLOCATION\n\nTURKIYE\n\nUNITED STATES\n\nrelated articles\nfal raises $140m series d at $4.5b valuation\nNEWS\nfal.ai raises $250m at $4b valuation to expand multimodal ai infrastructure\nNEWS\nfal raises $125 million, valuing company at $1.5 billion\nNEWS\nfal, generative media platform for developers, raises $49 million series b\nNEWS\ntraining flux style lora on fal\nNEWS\nSAN FRANCISCO\n11:47 AM\nLONDON\n7:47 PM\nISTANBUL\n9:47 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP\nFOUNDER\nCOMPANY"
+}

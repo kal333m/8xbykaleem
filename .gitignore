@@ -1,0 +1,16 @@
+# downloaded 8x footage: theirs to host, the site streams it from their CDN
+research/videos/
+# tooling deps
+node_modules/
+.venv/
+research/tools/.venv/
+# working files
+review/
+research/frames/
+research/captures/slices/
+research/captures/*.html
+research/transcripts/log.txt
+concept/*.png
+.claude/
+.DS_Store
+research/captures/e2_vc*__full.png

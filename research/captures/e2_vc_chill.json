@@ -1,0 +1,1078 @@
+{
+  "title": "chill - e2vc",
+  "meta": [
+    {
+      "n": "description",
+      "c": "two locations. one in Istanbul, one in San Francisco. Come by, host an event, meet a founder, or just get some work done. mi casa es su casa."
+    },
+    {
+      "n": "og:title",
+      "c": "chill - e2vc"
+    },
+    {
+      "n": "og:description",
+      "c": "two locations. one in Istanbul, one in San Francisco. Come by, host an event, meet a founder, or just get some work done. mi casa es su casa."
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8325/6a3186e3868fbff1e37a83b2_OG%20Image.png"
+    },
+    {
+      "n": "twitter:title",
+      "c": "chill - e2vc"
+    },
+    {
+      "n": "twitter:description",
+      "c": "two locations. one in Istanbul, one in San Francisco. Come by, host an event, meet a founder, or just get some work done. mi casa es su casa."
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "learn more",
+      "href": "https://www.notion.so/e2chill-Free-Space-for-Your-Community-3660e40640ae807693d1fb609ea768f3?source=copy_link"
+    },
+    {
+      "text": "learn more",
+      "href": "https://www.notion.so/SF-Office-Events-Manual-3730e40640ae802d8518d0c843432ca8?source=copy_link"
+    },
+    {
+      "text": "apply to join",
+      "href": "https://partiful.com/e/QUy7DwuOfmHA6LvdwuNu?utm_source=luma"
+    },
+    {
+      "text": "apply to join",
+      "href": "https://luma.com/l83s27t0"
+    },
+    {
+      "text": "APPLY TO JOIN",
+      "href": "https://luma.com/re68ilw0"
+    },
+    {
+      "text": "APPLY TO JOIN",
+      "href": "https://luma.com/j4nabrmh"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      63
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "22px/24.2px w400",
+      16
+    ],
+    [
+      "93.6px/140.4px w600",
+      8
+    ],
+    [
+      "14px/20px w400",
+      7
+    ],
+    [
+      "20.16px/29.232px w600",
+      5
+    ],
+    [
+      "86.4px/82.08px w600",
+      5
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "135.36px/128.592px w600",
+      4
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "15.84px/20px w500",
+      2
+    ],
+    [
+      "40px/42px w600",
+      2
+    ],
+    [
+      "16px/16px w400",
+      2
+    ],
+    [
+      "30px/30px w600",
+      2
+    ],
+    [
+      "43.2px/43.2px w600",
+      2
+    ],
+    [
+      "12px/20px w400",
+      2
+    ],
+    [
+      "34px/34.68px w600",
+      2
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(252, 247, 240)",
+      28
+    ],
+    [
+      "rgb(28, 33, 33)",
+      23
+    ],
+    [
+      "rgba(28, 33, 33, 0.65)",
+      7
+    ],
+    [
+      "rgb(52, 81, 245)",
+      6
+    ],
+    [
+      "rgb(0, 0, 0)",
+      2
+    ],
+    [
+      "rgba(28, 33, 33, 0.25)",
+      2
+    ],
+    [
+      "rgba(28, 33, 33, 0.32)",
+      2
+    ],
+    [
+      "rgb(240, 97, 47)",
+      1
+    ]
+  ],
+  "bodyBg": "rgb(252, 247, 240)",
+  "bgs": [
+    [
+      "rgb(28, 33, 33)",
+      2
+    ],
+    [
+      "rgba(28, 33, 33, 0.06)",
+      2
+    ],
+    [
+      "rgb(252, 247, 240)",
+      1
+    ],
+    [
+      "rgba(8, 8, 8, 0)",
+      1
+    ],
+    [
+      "rgb(255, 222, 222)",
+      1
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 5456,
+  "images": 22,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "free",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "space",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "community",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "two locations. one in istanbul, one in san francisco. come b",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "BACKYARD / ISTANBUL",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.584px",
+      "tt": "uppercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "H2",
+      "text": "cozy garden in the heart of istanbul with a lot of cats, piz",
+      "font": "\"Inter Tight\"",
+      "size": "40px",
+      "weight": "600",
+      "lh": "42px",
+      "ls": "-0.6px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "learn more",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "P",
+      "text": "SPACE / SAN FRANCISCO",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.584px",
+      "tt": "uppercase",
+      "color": "rgb(240, 97, 47)"
+    },
+    {
+      "tag": "H2",
+      "text": "our newest home. comes with a patio and occasional baklava.",
+      "font": "\"Inter Tight\"",
+      "size": "40px",
+      "weight": "600",
+      "lh": "42px",
+      "ls": "-0.6px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "learn more",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "DIV",
+      "text": "upcoming",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "gatherings",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "what the tribe is building, celebrating, and arguing about t",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "istanbul",
+      "font": "\"Inter Tight\"",
+      "size": "30px",
+      "weight": "600",
+      "lh": "30px",
+      "ls": "-0.45px",
+      "tt": "none",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "/",
+      "font": "\"Inter Tight\"",
+      "size": "30px",
+      "weight": "300",
+      "lh": "30px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgba(28, 33, 33, 0.25)"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "san francisco",
+      "font": "\"Inter Tight\"",
+      "size": "30px",
+      "weight": "600",
+      "lh": "30px",
+      "ls": "-0.45px",
+      "tt": "none",
+      "color": "rgba(28, 33, 33, 0.32)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "12",
+      "font": "\"Inter Tight\"",
+      "size": "43.2px",
+      "weight": "600",
+      "lh": "43.2px",
+      "ls": "-1.296px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "OCT",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "side quest",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "34.68px",
+      "ls": "-0.68px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "​e2vc × arcadia gaming partners × fal.ai are bringing togeth",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY TO JOIN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "21",
+      "font": "\"Inter Tight\"",
+      "size": "43.2px",
+      "weight": "600",
+      "lh": "43.2px",
+      "ls": "-1.296px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "SEP",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "after hours by clerion",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "34.68px",
+      "ls": "-0.68px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "invite-only evening organized by clerion for istanbul’s star",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY TO JOIN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "use",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "space",
+      "font": "\"Inter Tight\"",
+      "size": "86.4px",
+      "weight": "600",
+      "lh": "82.08px",
+      "ls": "-0.864px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "got an idea? fill this out and we'll get back to you within ",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "WHICH SPACE?",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "istanbul",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "-0.3px",
+      "tt": "none",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "/",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "300",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgba(28, 33, 33, 0.25)"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "san francisco",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "-0.3px",
+      "tt": "none",
+      "color": "rgba(28, 33, 33, 0.32)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "YOUR NAME",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "COMPANY NAME",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "WEBSITE OR LINKEDIN",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EVENT DESCRIPTION",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PREFERRED DATE",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EXPECTED HEADCOUNT",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "1.4px",
+      "tt": "uppercase",
+      "color": "rgba(28, 33, 33, 0.65)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY TO JOIN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SAN FRANCISCO\n11:46 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "11:46 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "LONDON\n7:46 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "7:46 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ISTANBUL\n9:46 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "9:46 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FRIENDS",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TRIBE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TALENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CHILL",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CONTENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "IMPACT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TEAM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEXTGEN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLAIMER",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LINKEDIN ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMAIL ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PERKHUB ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "© 2026 E2VC",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "R TO RESET · HOLD SPACE FOR SPACEJUMP",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\nfree space\nfor community\n\ntwo locations. one in istanbul, one in san francisco. come by, host an event, meet a founder, or just get some work done. mi casa es su casa.\n\nBACKYARD / ISTANBUL\n\ncozy garden in the heart of istanbul with a lot of cats, pizza and beer is on us.\nlearn more\n\nSPACE / SAN FRANCISCO\n\nour newest home. comes with a patio and occasional baklava.\nlearn more\nupcoming\ngatherings\n\nwhat the tribe is building, celebrating, and arguing about this month.\n\nistanbul\n/\nsan francisco\n12\nOCT\nside quest\n\n​e2vc × arcadia gaming partners × fal.ai are bringing together some of the best people building and backing gaming & consumer products out of türkiye, on day 0 of istanbul ignited by slush’d.\n\nAPPLY TO JOIN\n21\nSEP\nafter hours by clerion\n\ninvite-only evening organized by clerion for istanbul’s startup ecosystem, bringing together founders, operators, investors, aws, and friends to connect casually over drinks and music, with no agenda.\n\nAPPLY TO JOIN\nuse the space\n\ngot an idea? fill this out and we'll get back to you within 48 hours.\n\nWHICH SPACE?\nistanbul\n/\nsan francisco\nYOUR NAME\nCOMPANY NAME\nWEBSITE OR LINKEDIN\nEVENT DESCRIPTION\nPREFERRED DATE\nEXPECTED HEADCOUNT\nAPPLY TO JOIN\nSAN FRANCISCO\n11:46 AM\nLONDON\n7:46 PM\nISTANBUL\n9:46 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP"
+}

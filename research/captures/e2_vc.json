@@ -1,0 +1,1990 @@
+{
+  "title": "e2vc - home",
+  "meta": [
+    {
+      "n": "description",
+      "c": "we just have great taste in friends"
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8325/6a3186e3868fbff1e37a83b2_OG%20Image.png"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "INSIDER ONE\n\nRAISED $750M\n\nAI marketing revolution: A unicorn in 50\ncountries",
+      "href": "https://e2.vc/founders/insider-one"
+    },
+    {
+      "text": "FAL\n\nRAISED $750M\n\nPowering the next generation of\ngenerative media applications",
+      "href": "https://e2.vc/founders/fal"
+    },
+    {
+      "text": "BILLIONTOONE\n\nNASDAQ: BLLN\n\nAdvancing early cancer & prenatal\ndetection",
+      "href": "https://e2.vc/founders/billiontone"
+    },
+    {
+      "text": "CARBON HEALTH\n\nRAISED $600M\n\nTransforming care for\nmillions of patients",
+      "href": "https://e2.vc/founders/carbon-health"
+    },
+    {
+      "text": "LOOM GAMES\n\nEXIT $1.2B\n\nTurkiye’s fastest unicorn, redefining\npuzzle games",
+      "href": "https://e2.vc/founders/loom-games"
+    },
+    {
+      "text": "DAYTONA\n\nRAISED $40M\n\nBuilding the runtime layer for autonomous AI\nagents",
+      "href": "https://e2.vc/founders/daytona"
+    },
+    {
+      "text": "UBICLOUD\n\nRAISED $25M\n\nOpen-source alternative to AWS",
+      "href": "https://e2.vc/founders/ubicloud"
+    },
+    {
+      "text": "CYPHER GAMES\n\nRAISED $37M\n\nCreating casual gaming through\nworld-class art and ga",
+      "href": "https://e2.vc/founders/cypher-games"
+    },
+    {
+      "text": "ARF & HUMA\n\nRAISED $30M\n\nBuilding the financial rails for a\ntokenized global eco",
+      "href": "https://e2.vc/founders/arf-huma"
+    },
+    {
+      "text": "FIREFLY\n\nRAISED $50M\n\nTurning everyday mobility\ninto a data-driven media\nnetwork",
+      "href": "https://e2.vc/founders/firefly"
+    },
+    {
+      "text": "PLUM\n\nRAISED $75M\n\nHelping people save money day-by-day",
+      "href": "https://e2.vc/founders/plum"
+    },
+    {
+      "text": "AGAVE GAMES\n\nRAISED $25M\n\nBuilding games played by millions",
+      "href": "https://e2.vc/founders/agave-games"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      151
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "24px/30px w500",
+      81
+    ],
+    [
+      "15px/15px w400",
+      24
+    ],
+    [
+      "172.8px/155.52px w600",
+      16
+    ],
+    [
+      "22px/24.2px w400",
+      13
+    ],
+    [
+      "93.6px/140.4px w600",
+      8
+    ],
+    [
+      "135.36px/128.592px w600",
+      7
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "16px/16px w400",
+      2
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(252, 247, 240)",
+      151
+    ],
+    [
+      "rgb(28, 33, 33)",
+      8
+    ]
+  ],
+  "bodyBg": "rgb(252, 247, 240)",
+  "bgs": [
+    [
+      "rgba(255, 255, 255, 0)",
+      75
+    ],
+    [
+      "rgb(28, 33, 33)",
+      39
+    ],
+    [
+      "rgb(252, 247, 240)",
+      1
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 10752,
+  "images": 219,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "we",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "just",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "have",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "great",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "taste",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "f",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "m",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "e",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "g",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "r",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "o",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "u",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "p",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "c",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "h",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "t",
+      "font": "\"Inter Tight\"",
+      "size": "172.8px",
+      "weight": "600",
+      "lh": "155.52px",
+      "ls": "-3.456px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "INSIDER ONE",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $750M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "AI",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "marketing",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "revolution:",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "A",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "unicorn",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "50",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "countries",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "FAL",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $750M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Powering",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "next",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "generation",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "generative",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "media",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "applications",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "BILLIONTOONE",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "NASDAQ: BLLN",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Advancing",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "early",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "cancer",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "&",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "prenatal",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "detection",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "CARBON HEALTH",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $600M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Transforming",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "care",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "millions",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "patients",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "LOOM GAMES",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "EXIT $1.2B",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Turkiye’s",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "fastest",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "unicorn,",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "redefining",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "puzzle",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "games",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "DAYTONA",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $40M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Building",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "runtime",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "layer",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "autonomous",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "AI",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "agents",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "UBICLOUD",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $25M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Open-source",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "alternative",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "to",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "AWS",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "CYPHER GAMES",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $37M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Creating",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "casual",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "gaming",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "through",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "world-class",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "art",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "and",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "gameplay",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "ARF & HUMA",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $30M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Building",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "financial",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "rails",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "for",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "tokenized",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "global",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "economy",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "FIREFLY",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $50M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Turning",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "everyday",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "mobility",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "into",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "data-driven",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "media",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "network",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "PLUM",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $75M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Helping",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "people",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "save",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "money",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "day-by-day",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "AGAVE GAMES",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "RAISED $25M",
+      "font": "\"Inter Tight\"",
+      "size": "15px",
+      "weight": "400",
+      "lh": "15px",
+      "ls": "0.6px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "Building",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "games",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "played",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "by",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "millions",
+      "font": "\"Inter Tight\"",
+      "size": "24px",
+      "weight": "500",
+      "lh": "30px",
+      "ls": "-0.24px",
+      "tt": "none",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SAN FRANCISCO\n11:43 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "11:43 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "LONDON\n7:43 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "7:43 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ISTANBUL\n9:43 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "9:43 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FRIENDS",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TRIBE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TALENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CHILL",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CONTENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "IMPACT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TEAM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEXTGEN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLAIMER",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LINKEDIN ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMAIL ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PERKHUB ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "© 2026 E2VC",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "R TO RESET · HOLD SPACE FOR SPACEJUMP",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDER",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "COMPANY",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\nwe just have great\ntaste in\nfriends\n\nf\nr\no\nm\n \nt\nh\ne\n \ngroup chat\n\nINSIDER ONE\n\nRAISED $750M\n\nAI marketing revolution: A unicorn in 50\ncountries\n\nFAL\n\nRAISED $750M\n\nPowering the next generation of\ngenerative media applications\n\nBILLIONTOONE\n\nNASDAQ: BLLN\n\nAdvancing early cancer & prenatal\ndetection\n\nCARBON HEALTH\n\nRAISED $600M\n\nTransforming care for\nmillions of patients\n\nLOOM GAMES\n\nEXIT $1.2B\n\nTurkiye’s fastest unicorn, redefining\npuzzle games\n\nDAYTONA\n\nRAISED $40M\n\nBuilding the runtime layer for autonomous AI\nagents\n\nUBICLOUD\n\nRAISED $25M\n\nOpen-source alternative to AWS\n\nCYPHER GAMES\n\nRAISED $37M\n\nCreating casual gaming through\nworld-class art and gameplay\n\nARF & HUMA\n\nRAISED $30M\n\nBuilding the financial rails for a\ntokenized global economy\n\nFIREFLY\n\nRAISED $50M\n\nTurning everyday mobility\ninto a data-driven media\nnetwork\n\nPLUM\n\nRAISED $75M\n\nHelping people save money day-by-day\n\nAGAVE GAMES\n\nRAISED $25M\n\nBuilding games played by millions\nSAN FRANCISCO\n11:43 AM\nLONDON\n7:43 PM\nISTANBUL\n9:43 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP\nFOUNDER\nCOMPANY"
+}

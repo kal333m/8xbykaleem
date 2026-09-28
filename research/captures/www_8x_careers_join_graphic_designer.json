@@ -1,0 +1,526 @@
+{
+  "title": "Open roles | 8x Hiring",
+  "meta": [
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "next-size-adjust",
+      "c": ""
+    },
+    {
+      "n": "robots",
+      "c": "noindex"
+    },
+    {
+      "n": "robots",
+      "c": "noindex"
+    },
+    {
+      "n": "description",
+      "c": "Build your portfolio and get feedback while applying to roles at 8x and companies we partner with."
+    },
+    {
+      "n": "og:title",
+      "c": "8x Hiring"
+    },
+    {
+      "n": "og:description",
+      "c": "Build your portfolio and get feedback while applying to roles at 8x and companies we partner with."
+    },
+    {
+      "n": "og:site_name",
+      "c": "8x Hiring"
+    },
+    {
+      "n": "og:locale",
+      "c": "en"
+    },
+    {
+      "n": "og:image",
+      "c": "https://www.8x.careers/opengraph-image?e31ee38e5a6bf7ef"
+    },
+    {
+      "n": "og:image:type",
+      "c": "image/png"
+    },
+    {
+      "n": "og:image:width",
+      "c": "1200"
+    },
+    {
+      "n": "og:image:height",
+      "c": "630"
+    },
+    {
+      "n": "og:image:alt",
+      "c": "8x Hiring: build your portfolio while you apply"
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "twitter:title",
+      "c": "8x Hiring"
+    },
+    {
+      "n": "twitter:description",
+      "c": "Build your portfolio and get feedback while applying to roles at 8x and companies we partner with."
+    },
+    {
+      "n": "twitter:image",
+      "c": "https://www.8x.careers/opengraph-image?e31ee38e5a6bf7ef"
+    },
+    {
+      "n": "twitter:image:alt",
+      "c": "8x Hiring: build your portfolio while you apply"
+    },
+    {
+      "n": "twitter:image:type",
+      "c": "image/png"
+    },
+    {
+      "n": "twitter:image:width",
+      "c": "1200"
+    },
+    {
+      "n": "twitter:image:height",
+      "c": "630"
+    }
+  ],
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "https://www.8x.careers/join/graphic-designer#main"
+    },
+    {
+      "text": "Hiring for your team?Hire with 8x",
+      "href": "https://www.8x.careers/client"
+    },
+    {
+      "text": "Careers",
+      "href": "https://www.8x.careers/"
+    },
+    {
+      "text": "Open roles",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "Portfolios",
+      "href": "https://www.8x.careers/portfolios"
+    },
+    {
+      "text": "Referrals",
+      "href": "https://www.8x.careers/referrals"
+    },
+    {
+      "text": "About",
+      "href": "https://www.8x.careers/about"
+    },
+    {
+      "text": "Login",
+      "href": "https://www.8x.careers/auth/sign-in"
+    },
+    {
+      "text": "Login",
+      "href": "https://www.8x.careers/auth/sign-in"
+    },
+    {
+      "text": "Hire with 8x",
+      "href": "https://www.8x.careers/client"
+    },
+    {
+      "text": "Find your role",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "See open roles",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "Back to the homepage",
+      "href": "https://www.8x.careers/"
+    },
+    {
+      "text": "Find your role",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "",
+      "href": "https://www.8x.careers/"
+    },
+    {
+      "text": "Open roles",
+      "href": "https://www.8x.careers/join"
+    },
+    {
+      "text": "Portfolios",
+      "href": "https://www.8x.careers/portfolios"
+    },
+    {
+      "text": "Referrals",
+      "href": "https://www.8x.careers/referrals"
+    },
+    {
+      "text": "About 8x",
+      "href": "https://www.8x.careers/about"
+    },
+    {
+      "text": "Back to the beginning",
+      "href": "https://www.8x.careers/join/graphic-designer#main"
+    }
+  ],
+  "fonts": [
+    [
+      "Geist, Arial, sans-serif",
+      20
+    ],
+    [
+      "\"Instrument Serif\", Georgia, serif",
+      3
+    ]
+  ],
+  "sizes": [
+    [
+      "13px/19.5px w400",
+      8
+    ],
+    [
+      "12px/18px w400",
+      7
+    ],
+    [
+      "72px/74.88px w400",
+      2
+    ],
+    [
+      "16px/24px w400",
+      1
+    ],
+    [
+      "32px/36.8px w400",
+      1
+    ],
+    [
+      "16px/26px w400",
+      1
+    ],
+    [
+      "14px/21px w600",
+      1
+    ],
+    [
+      "14px/20px w600",
+      1
+    ],
+    [
+      "14px/21px w400",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(240, 240, 235)",
+      12
+    ],
+    [
+      "rgb(37, 39, 34)",
+      4
+    ],
+    [
+      "rgb(255, 255, 255)",
+      3
+    ],
+    [
+      "rgb(181, 186, 170)",
+      3
+    ],
+    [
+      "rgb(85, 94, 77)",
+      1
+    ]
+  ],
+  "bodyBg": "rgb(252, 251, 246)",
+  "bgs": [
+    [
+      "rgb(37, 39, 34)",
+      4
+    ],
+    [
+      "rgb(199, 61, 32)",
+      4
+    ],
+    [
+      "rgb(240, 240, 235)",
+      3
+    ],
+    [
+      "rgb(255, 255, 255)",
+      2
+    ]
+  ],
+  "height": 1335,
+  "images": 7,
+  "type": [
+    {
+      "tag": "A",
+      "text": "Skip to content",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Careers",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Open roles",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Portfolios",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Referrals",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Login",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Hire with 8x",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "A",
+      "text": "Find your role",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "H1",
+      "text": "We could not find that role.",
+      "font": "\"Instrument Serif\"",
+      "size": "32px",
+      "weight": "400",
+      "lh": "36.8px",
+      "ls": "-1.12px",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "P",
+      "text": "The link may be mistyped, or the role may no longer be open.",
+      "font": "Geist",
+      "size": "16px",
+      "weight": "400",
+      "lh": "26px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(85, 94, 77)"
+    },
+    {
+      "tag": "A",
+      "text": "See open roles",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "600",
+      "lh": "21px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "A",
+      "text": "Back to the homepage",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(37, 39, 34)"
+    },
+    {
+      "tag": "H2",
+      "text": "Find a role\nand send us your work.",
+      "font": "\"Instrument Serif\"",
+      "size": "72px",
+      "weight": "400",
+      "lh": "74.88px",
+      "ls": "-2.52px",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "EM",
+      "text": "and send us your work.",
+      "font": "\"Instrument Serif\"",
+      "size": "72px",
+      "weight": "400",
+      "lh": "74.88px",
+      "ls": "-2.52px",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Find your role",
+      "font": "Geist",
+      "size": "14px",
+      "weight": "400",
+      "lh": "21px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "A",
+      "text": "Open roles",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Portfolios",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "Referrals",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "A",
+      "text": "About 8x",
+      "font": "Geist",
+      "size": "13px",
+      "weight": "400",
+      "lh": "19.5px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(240, 240, 235)"
+    },
+    {
+      "tag": "P",
+      "text": "Remote-first,\nbuilt from San Francisco.",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(181, 186, 170)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "8x Careers",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(181, 186, 170)"
+    },
+    {
+      "tag": "A",
+      "text": "Back to the beginning",
+      "font": "Geist",
+      "size": "12px",
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(181, 186, 170)"
+    }
+  ],
+  "text": "Skip to content\nCareers\nOpen roles\nPortfolios\nReferrals\nAbout\nLogin\nHire with 8x\nFind your role\nWe could not find that role.\n\nThe link may be mistyped, or the role may no longer be open.\n\nSee open roles\nBack to the homepage\nFind a role\nand send us your work.\nFind your role\nOpen roles\nPortfolios\nReferrals\nAbout 8x\n\nRemote-first,\nbuilt from San Francisco.\n\n8x Careers\nBack to the beginning"
+}

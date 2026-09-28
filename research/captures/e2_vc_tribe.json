@@ -1,0 +1,1964 @@
+{
+  "title": "tribe - e2vc",
+  "meta": [
+    {
+      "n": "description",
+      "c": "founders backing founders."
+    },
+    {
+      "n": "og:title",
+      "c": "tribe - e2vc"
+    },
+    {
+      "n": "og:description",
+      "c": "founders backing founders."
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8325/6a3186e3868fbff1e37a83b2_OG%20Image.png"
+    },
+    {
+      "n": "twitter:title",
+      "c": "tribe - e2vc"
+    },
+    {
+      "n": "twitter:description",
+      "c": "founders backing founders."
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      149
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "27.36px/33.3792px w500",
+      74
+    ],
+    [
+      "23.04px/27.648px w600",
+      23
+    ],
+    [
+      "15.84px/22.176px w400",
+      23
+    ],
+    [
+      "22px/24.2px w400",
+      13
+    ],
+    [
+      "93.6px/140.4px w600",
+      8
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "135.36px/128.592px w600",
+      3
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "16px/16px w400",
+      2
+    ],
+    [
+      "20.16px/29.232px w600",
+      1
+    ],
+    [
+      "100.8px/95.76px w600",
+      1
+    ],
+    [
+      "14px/14px w500",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(28, 33, 33)",
+      126
+    ],
+    [
+      "rgb(252, 247, 240)",
+      30
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ]
+  ],
+  "bodyBg": "rgb(252, 247, 240)",
+  "bgs": [
+    [
+      "rgb(196, 196, 196)",
+      23
+    ],
+    [
+      "rgba(28, 33, 33, 0.1)",
+      5
+    ],
+    [
+      "rgb(28, 33, 33)",
+      4
+    ],
+    [
+      "rgb(252, 247, 240)",
+      1
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 6881,
+  "images": 13,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "founders",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "backing",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "founders",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "the tribe is our unofficial group chat. it started with a fe",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "just",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "some",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "casually",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "building",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "tooling",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "behind",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "modern",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ai",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "and",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "arin",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "smiling",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "32-teeth",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "fal's",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "unicorn",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "round",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "celebration,",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "coincidentally",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "held",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "on",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "görkem's",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "birthday",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "party",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "in",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "our",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "istanbul",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "office",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "great",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "night",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "with",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "bosphorus",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "view",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "where",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "we",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "celebrated",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "people",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "behind",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "some",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "world's",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "favorite",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "games",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ozgun",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "and",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "kaan,",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "playing",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "on",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "home",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "turf",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "at",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "e2day",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "a",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "room",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "full",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "game",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "makers",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "and",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "one",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "people",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "who",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "helped",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "put",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "turkish",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "gaming",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "on",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "map",
+      "font": "\"Inter Tight\"",
+      "size": "27.36px",
+      "weight": "500",
+      "lh": "33.3792px",
+      "ls": "-0.4104px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "100.8px",
+      "weight": "600",
+      "lh": "95.76px",
+      "ls": "-1.008px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "gorkem yurtseven",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "fal",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "burkay gur",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "fal",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "akin babayigit",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tripledot",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "erbil karaman",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "huma",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "egem eraslan",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "midas",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "umur cubukcu",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "ubicloud",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "evren ucok",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "trendyol",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "rina onur",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "spyke",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "mehmet ecevit",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "gram games & layer",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "hasan burak demir",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "feraset",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "cem ortabas",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "hubx",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "izzet zakuto",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "scorp",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "erdem yurdanur",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "mackolik",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "furkan tasel",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "7apps",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "andac turkmen",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "parasut",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "ecem baran",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "alictus",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "yigit gurocak",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "obilet",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "sean yu",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "parasut",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "emre tas",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "alictus",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "bulent tekmen",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "colendi",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "ali yilmaz",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "obilet",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "melih odemis",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "yemeksepeti",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "aslı kurul turkmen",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "27.648px",
+      "ls": "-0.3456px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "endeavor",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "400",
+      "lh": "22.176px",
+      "ls": "0.1584px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SAN FRANCISCO\n11:45 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "11:45 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "LONDON\n7:45 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "7:45 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ISTANBUL\n9:45 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "9:45 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FRIENDS",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TRIBE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TALENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CHILL",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CONTENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "IMPACT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TEAM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEXTGEN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLAIMER",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LINKEDIN ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMAIL ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PERKHUB ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "© 2026 E2VC",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "R TO RESET · HOLD SPACE FOR SPACEJUMP",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDER",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "COMPANY",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TIDY UP",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "1.12px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\nfounders\n backing\nfounders\n\nthe tribe is our unofficial group chat. it started with a few friendships and somehow kept growing from there. today, it's filled with people we're very glad to have around.\n\njust some friends casually building the tooling behind modern ai\nand arin smiling 32-teeth\nfal's unicorn round celebration,\ncoincidentally held on görkem's\nbirthday party in our istanbul office\na great night with bosphorus view where we celebrated\nthe people behind some of the world's favorite games\nozgun and kaan, playing on home\nturf at e2day\na room full of game makers and one of the people who\nhelped put turkish gaming on the map\ntribe\ngorkem yurtseven\nfal\nburkay gur\nfal\nakin babayigit\ntripledot\nerbil karaman\nhuma\negem eraslan\nmidas\numur cubukcu\nubicloud\nevren ucok\ntrendyol\nrina onur\nspyke\nmehmet ecevit\ngram games & layer\nhasan burak demir\nferaset\ncem ortabas\nhubx\nizzet zakuto\nscorp\nerdem yurdanur\nmackolik\nfurkan tasel\n7apps\nandac turkmen\nparasut\necem baran\nalictus\nyigit gurocak\nobilet\nsean yu\nparasut\nemre tas\nalictus\nbulent tekmen\ncolendi\nali yilmaz\nobilet\nmelih odemis\nyemeksepeti\naslı kurul turkmen\nendeavor\nSAN FRANCISCO\n11:45 AM\nLONDON\n7:45 PM\nISTANBUL\n9:45 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP\nFOUNDER\nCOMPANY\nTIDY UP"
+}

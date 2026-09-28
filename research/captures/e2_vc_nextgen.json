@@ -1,0 +1,1494 @@
+{
+  "title": "nextgen -e2vc",
+  "meta": [
+    {
+      "n": "description",
+      "c": "the first incubator that backs high schoolers."
+    },
+    {
+      "n": "og:title",
+      "c": "nextgen -e2vc"
+    },
+    {
+      "n": "og:description",
+      "c": "the first incubator that backs high schoolers."
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8325/6a3186e3868fbff1e37a83b2_OG%20Image.png"
+    },
+    {
+      "n": "twitter:title",
+      "c": "nextgen -e2vc"
+    },
+    {
+      "n": "twitter:description",
+      "c": "the first incubator that backs high schoolers."
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "APPLY NOW",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSckWDWfGbbMpAamqeoClfqkbZ_zIXBlP3oOkRxeD_4b6ymFCg/closedform"
+    },
+    {
+      "text": "PARTNER WITH US",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSeAQHyc9pc6O36gr7aN-uKHVP1hBZsqD3HasIL1JaH7cNgTQg/viewform"
+    },
+    {
+      "text": "APPLY NOW",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSckWDWfGbbMpAamqeoClfqkbZ_zIXBlP3oOkRxeD_4b6ymFCg/closedform"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      103
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "22px/24.2px w400",
+      16
+    ],
+    [
+      "18px/20px w400",
+      12
+    ],
+    [
+      "20px/20px w600",
+      11
+    ],
+    [
+      "20.16px/29.232px w600",
+      10
+    ],
+    [
+      "34px/35.7px w600",
+      9
+    ],
+    [
+      "14px/14px w500",
+      9
+    ],
+    [
+      "93.6px/140.4px w600",
+      8
+    ],
+    [
+      "32px/41.6px w700",
+      6
+    ],
+    [
+      "14px/20px w400",
+      6
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "72px/70.56px w600",
+      4
+    ],
+    [
+      "16px/20px w600",
+      3
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "64px/76.8px w700",
+      2
+    ],
+    [
+      "16px/16px w400",
+      2
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(28, 33, 33)",
+      58
+    ],
+    [
+      "rgb(252, 247, 240)",
+      50
+    ],
+    [
+      "rgb(52, 81, 245)",
+      2
+    ],
+    [
+      "rgb(203, 200, 194)",
+      1
+    ]
+  ],
+  "bodyBg": "rgb(252, 247, 240)",
+  "bgs": [
+    [
+      "rgb(28, 33, 33)",
+      12
+    ],
+    [
+      "rgb(45, 81, 255)",
+      2
+    ],
+    [
+      "rgb(194, 148, 255)",
+      2
+    ],
+    [
+      "rgb(252, 247, 240)",
+      1
+    ],
+    [
+      "rgb(49, 254, 106)",
+      1
+    ],
+    [
+      "rgb(255, 80, 1)",
+      1
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 8187,
+  "images": 37,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(203, 200, 194)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "P",
+      "text": "THE NEXTGEN PROGRAM",
+      "font": "\"Inter Tight\"",
+      "size": "15.84px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "1.584px",
+      "tt": "uppercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "DIV",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "the first incubator that backs high schoolers.",
+      "font": "\"Inter Tight\"",
+      "size": "51.84px",
+      "weight": "600",
+      "lh": "53.9136px",
+      "ls": "-1.0368px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "APPLY NOW",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PARTNER WITH US",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H2",
+      "text": "our 6 week program",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "capital",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "direct investment from e2vc",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "funding, $100k+ in credits, and direct connections to world-",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "coaching",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "hands-on mentorship",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "weekly check-ins with e2vc partners and portfolio founders g",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "community",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "join 100+ rising founders",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "exclusive access to resources, events, and partners shaping ",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "$100k+ in partner credits",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "access cloud, ai, and productivity tools like aws, google cl",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "exclusive office opportunities",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "gain priority access to work from top co-working spaces acro",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "lifelong alumni access",
+      "font": "\"Inter Tight\"",
+      "size": "32px",
+      "weight": "700",
+      "lh": "41.6px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "P",
+      "text": "join the nextgen founder network, a growing community of hig",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H2",
+      "text": "speakers and mentors",
+      "font": "\"Inter Tight\"",
+      "size": "64px",
+      "weight": "700",
+      "lh": "76.8px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "kubra gundogan",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "loom games",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "egem eraslan",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "midas",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "serhat soyuerel",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "insider one",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ozgun erdogan",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ubicloud",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "gorkem yurtseven",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "fal",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "anil simsek",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "cypher games",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "erbil karaman",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "huma",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "oncel ozgul",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "patientdesk",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "alperen adikti",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "heltia",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "mert kaan atan",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "luron",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "burak demir",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "600",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "feraset",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H2",
+      "text": "used by the world's leading companies",
+      "font": "\"Inter Tight\"",
+      "size": "20px",
+      "weight": "700",
+      "lh": "28px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H2",
+      "text": "join the movement shaping the future of entrepreneurship",
+      "font": "\"Inter Tight\"",
+      "size": "56px",
+      "weight": "700",
+      "lh": "67.2px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "whether you're ready to build your startup or want to suppor",
+      "font": "\"Inter Tight\"",
+      "size": "18px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "APPLY NOW",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "selected",
+      "font": "\"Inter Tight\"",
+      "size": "72px",
+      "weight": "600",
+      "lh": "70.56px",
+      "ls": "-1.44px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "teams",
+      "font": "\"Inter Tight\"",
+      "size": "72px",
+      "weight": "600",
+      "lh": "70.56px",
+      "ls": "-1.44px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "of",
+      "font": "\"Inter Tight\"",
+      "size": "72px",
+      "weight": "600",
+      "lh": "70.56px",
+      "ls": "-1.44px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "2026",
+      "font": "\"Inter Tight\"",
+      "size": "72px",
+      "weight": "600",
+      "lh": "70.56px",
+      "ls": "-1.44px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "the high school founders we backed this year. nine companies",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "H3",
+      "text": "tremony",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "tremony develops an ai-powered factory brain that connects t",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "BORA KURTULUŞ, EREN ERSOY, DEFNE YILMAZ",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "loopcast",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "long-term behavioral simulation that turns synthetic user jo",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "SELIM GÜROL, CEREN İLMEN, HALUK ARDA IŞILOĞLU, BERK KAPTANOĞ",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "spinvault",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "spinvault is building spintronics-based memory and storage s",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "ÖMER FIDANCI, ALP DORUK ÜNAL, YUSUF DEMIR ÖZCAN, BURAK ATA A",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "kaleon",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "kaleon is an ai-powered qa platform for robot fleets that pi",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EGE DEMIRKAPI, ARTUN BATU YILDIRIM, MOIZ CHANNA",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "mirrorap",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "mirrorap is an ap exam prep platform that replicates the rea",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "AYBERK TANRIVERDI, ZEHRA NAZ UYGUR",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "practico",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "practico is an online exam prep platform built by two high s",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "YUSUF EMRE KIZILKAYA, ZAFER GÜNAL",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "syntest",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "syntest is an ai-powered game feel analysis tool for indie s",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "POYRAZ YENI, EGE YILMAZ",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "cellwise",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "cellwise creates validated clw master data from scattered it",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMRE GÜNER, EMRE BORA KAYNAR, TUĞRA GÜLSOY, ARDA GÜRSES",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "H3",
+      "text": "abrams",
+      "font": "\"Inter Tight\"",
+      "size": "34px",
+      "weight": "600",
+      "lh": "35.7px",
+      "ls": "-0.51px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "abrams leverages ai to help concrete plants cut excess cemen",
+      "font": "\"Inter Tight\"",
+      "size": "20.16px",
+      "weight": "600",
+      "lh": "29.232px",
+      "ls": "normal",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMRE AÇAR",
+      "font": "\"Inter Tight\"",
+      "size": "14px",
+      "weight": "500",
+      "lh": "14px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "SAN FRANCISCO\n11:47 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "11:47 AM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "LONDON\n7:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "7:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "ISTANBUL\n9:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "TIME",
+      "text": "9:47 PM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FRIENDS",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TRIBE",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TALENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CHILL",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "CONTENT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "IMPACT",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "TEAM",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "NEXTGEN",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "DISCLAIMER",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "LINKEDIN ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "EMAIL ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "PERKHUB ↗",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "© 2026 E2VC",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "R TO RESET · HOLD SPACE FOR SPACEJUMP",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "FOUNDER",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "COMPANY",
+      "font": "\"Inter Tight\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "16px",
+      "ls": "0.32px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\n\nTHE NEXTGEN PROGRAM\n\nnextgen\n\nthe first incubator that backs high schoolers.\n\nAPPLY NOW\nPARTNER WITH US\nour 6 week program\ncapital\ndirect investment from e2vc\n\nfunding, $100k+ in credits, and direct connections to world-class investors.\n\ncoaching\nhands-on mentorship\n\n\n\nweekly check-ins with e2vc partners and portfolio founders guiding you through every stage of building.\n\ncommunity\njoin 100+ rising founders\n\nexclusive access to resources, events, and partners shaping the future of entrepreneurship.\n\n$100k+ in partner credits\n\naccess cloud, ai, and productivity tools like aws, google cloud, fal, and anyscale to supercharge your startup's growth.\n\nexclusive office opportunities\n\ngain priority access to work from top co-working spaces across istanbul during and after the program.\n\nlifelong alumni access\n\njoin the nextgen founder network, a growing community of high-school-born founders backed by e2vc and leading investors.\n\nspeakers and mentors\nkubra gundogan\nloom games\negem eraslan\nmidas\nserhat soyuerel\ninsider one\nozgun erdogan\nubicloud\ngorkem yurtseven\nfal\nanil simsek\ncypher games\nerbil karaman\nhuma\noncel ozgul\npatientdesk\nalperen adikti\nheltia\nmert kaan atan\nluron\nburak demir\nferaset\nused by the world's leading companies\njoin the movement shaping the future of entrepreneurship\n\nwhether you're ready to build your startup or want to support the next generation of founders, we'd love to hear from you.\n\nAPPLY NOW\nselected teams of 2026\n\nthe high school founders we backed this year. nine companies, nine teams still in class.\n\ntremony\n\ntremony develops an ai-powered factory brain that connects to erp systems and machines to optimize manufacturing efficiency.\n\nBORA KURTULUŞ, EREN ERSOY, DEFNE YILMAZ\nloopcast\n\nlong-term behavioral simulation that turns synthetic user journeys into actionable product decisions.\n\nSELIM GÜROL, CEREN İLMEN, HALUK ARDA IŞILOĞLU, BERK KAPTANOĞLU\nspinvault\n\nspinvault is building spintronics-based memory and storage systems that use electron spin for more efficient, secure, and durable data storage.\n\nÖMER FIDANCI, ALP DORUK ÜNAL, YUSUF DEMIR ÖZCAN, BURAK ATA AKSU, ARON QERIMI\nkaleon\n\nkaleon is an ai-powered qa platform for robot fleets that pinpoints hardware and software failures while automating test validation.\n\nEGE DEMIRKAPI, ARTUN BATU YILDIRIM, MOIZ CHANNA\nmirrorap\n\nmirrorap is an ap exam prep platform that replicates the real bluebook test experience built by two 9th graders who couldn't find proper self-study resources. the platform provides dashboards, exam logs, and real-time exam timers to students for better exam preparation experince.\n\nAYBERK TANRIVERDI, ZEHRA NAZ UYGUR\npractico\n\npractico is an online exam prep platform built by two high school students who couldn't find proper study resources while preparing for the bocconi entrance test. they turned that gap into a structured question pool and learning system powered by ai.\n\nYUSUF EMRE KIZILKAYA, ZAFER GÜNAL\nsyntest\n\nsyntest is an ai-powered game feel analysis tool for indie studios. instead of traditional qa, it evaluates whether a game is fun, replayable, and right for its audience delivering a persona-based report scored across 15 parameters.\n\nPOYRAZ YENI, EGE YILMAZ\ncellwise\n\ncellwise creates validated clw master data from scattered item masters, boms, and routing records, then converts approved data to erp formats through deterministic, auditable rules.\n\nEMRE GÜNER, EMRE BORA KAYNAR, TUĞRA GÜLSOY, ARDA GÜRSES\nabrams\n\nabrams leverages ai to help concrete plants cut excess cement consumption by optimizing production formulas with lab data.\n\nEMRE AÇAR\nSAN FRANCISCO\n11:47 AM\nLONDON\n7:47 PM\nISTANBUL\n9:47 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP\nFOUNDER\nCOMPANY"
+}

@@ -1,0 +1,4961 @@
+{
+  "title": "friends - e2vc",
+  "meta": [
+    {
+      "n": "description",
+      "c": "investing in top-tier founders"
+    },
+    {
+      "n": "og:title",
+      "c": "friends - e2vc"
+    },
+    {
+      "n": "og:description",
+      "c": "investing in top-tier founders"
+    },
+    {
+      "n": "og:image",
+      "c": "https://cdn.prod.website-files.com/6a3186e3868fbff1e37a8325/6a3186e3868fbff1e37a83b2_OG%20Image.png"
+    },
+    {
+      "n": "twitter:title",
+      "c": "friends - e2vc"
+    },
+    {
+      "n": "twitter:description",
+      "c": "investing in top-tier founders"
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary_large_image"
+    },
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "generator",
+      "c": "Webflow"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://e2.vc/"
+    },
+    {
+      "text": "friends",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "tribe",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "talent",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "chill",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "content",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "impact",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "team",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "nextgen",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/elyzio"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/circle-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/mandel"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/luron"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/aspect-health"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/bold-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/patientdesk-ai"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/caretta"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/mission-control-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/loom-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/reflow"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/axiology"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/aurion"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/monogram-ai"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/forithmus"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/arf-huma"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/heron-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/peak-health"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/imbik"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/oaktree-labs"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/agave-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/billiontone"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/carbon-health"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/cypher-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/daytona"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/fal"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/firefly"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/insider-one"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/plum"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/ubicloud"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/polymet"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/feraset"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/axoflow"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/brainbase"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/diffusedrive"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/herdr"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/fume"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/intryc"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/layer"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/massive-bio"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/refine"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/pazi"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/yoneda-labs"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/vivoo"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/truemeter"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/gesund"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/kondukto"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/kalder"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/lifemote"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/pine-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/heltia"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/vidoc"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/handhold"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/integrated-finance"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/kubeark"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/kolay-ik"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/lonca"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/nicky"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/permify"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/plant-an-app"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/blisko"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/the-swarm"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/synnada"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/appsamurai"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/3d-look"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/ango"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/plyne-ai"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/wonder-games"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/cloudpipes"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/buybuddy"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/datapad"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/gurubase"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/finedine"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/fazla"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/evreka"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/fxcubic"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/inofab"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/kimola"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/mall-iq"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/mori"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/parasut"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/peoplise"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/rakam"
+    },
+    {
+      "text": "",
+      "href": "https://e2.vc/friends/structionsite"
+    },
+    {
+      "text": "FRIENDS",
+      "href": "https://e2.vc/friends"
+    },
+    {
+      "text": "TRIBE",
+      "href": "https://e2.vc/tribe"
+    },
+    {
+      "text": "TALENT",
+      "href": "https://e2.vc/talent"
+    },
+    {
+      "text": "CHILL",
+      "href": "https://e2.vc/chill"
+    },
+    {
+      "text": "CONTENT",
+      "href": "https://e2.vc/content"
+    },
+    {
+      "text": "IMPACT",
+      "href": "https://e2.vc/impact"
+    },
+    {
+      "text": "TEAM",
+      "href": "https://e2.vc/team"
+    },
+    {
+      "text": "NEXTGEN",
+      "href": "https://e2.vc/nextgen"
+    },
+    {
+      "text": "DISCLAIMER",
+      "href": "https://e2.vc/disclaimer"
+    },
+    {
+      "text": "LINKEDIN ↗",
+      "href": "https://www.linkedin.com/company/e2-vc/"
+    },
+    {
+      "text": "EMAIL ↗",
+      "href": "mailto:team@e2.vc?subject=Hi%20from%20website%20"
+    },
+    {
+      "text": "PERKHUB ↗",
+      "href": "https://e2.vc/perkhub"
+    }
+  ],
+  "fonts": [
+    [
+      "\"Inter Tight\", system-ui, sans-serif",
+      620
+    ],
+    [
+      "\"Inter Tight\", Arial, sans-serif",
+      8
+    ]
+  ],
+  "sizes": [
+    [
+      "13.68px/20px w400",
+      252
+    ],
+    [
+      "13.68px/20px w500",
+      252
+    ],
+    [
+      "23.04px/25.344px w600",
+      84
+    ],
+    [
+      "22px/24.2px w400",
+      13
+    ],
+    [
+      "93.6px/140.4px w600",
+      8
+    ],
+    [
+      "12px/20px w700",
+      5
+    ],
+    [
+      "22px/20px w400",
+      5
+    ],
+    [
+      "135.36px/128.592px w600",
+      4
+    ],
+    [
+      "22px/20px w500",
+      3
+    ],
+    [
+      "16px/16px w400",
+      2
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(252, 247, 240)",
+      366
+    ],
+    [
+      "color(srgb 0.988235 0.968627 0.941176 / 0.55)",
+      252
+    ],
+    [
+      "rgb(28, 33, 33)",
+      9
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ]
+  ],
+  "bodyBg": "rgb(252, 247, 240)",
+  "bgs": [
+    [
+      "rgb(28, 33, 33)",
+      170
+    ],
+    [
+      "rgb(252, 247, 240)",
+      10
+    ],
+    [
+      "rgb(52, 81, 245)",
+      1
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "height": 6011,
+  "images": 99,
+  "type": [
+    {
+      "tag": "SPAN",
+      "text": "MENU",
+      "font": "\"Inter Tight\"",
+      "size": "22px",
+      "weight": "400",
+      "lh": "24.2px",
+      "ls": "0.44px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "friends",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(52, 81, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "tribe",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "talent",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "chill",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "content",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "impact",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "team",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "nextgen",
+      "font": "\"Inter Tight\"",
+      "size": "93.6px",
+      "weight": "600",
+      "lh": "140.4px",
+      "ls": "-3.744px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DIV",
+      "text": "the",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "company",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "we",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DIV",
+      "text": "keep",
+      "font": "\"Inter Tight\"",
+      "size": "135.36px",
+      "weight": "600",
+      "lh": "128.592px",
+      "ls": "-1.3536px",
+      "tt": "lowercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "elyzio",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ACTIVE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "circle games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "mandel",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML, ENTERPRISE SOFTWARE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "luron",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "aspect health",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "HEALTH TECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "bold games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "patientdesk",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "caretta",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "mission control games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "loom games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "UNICORN",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "700",
+      "lh": "20px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "EXIT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "reflow",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "axiology",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FINTECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "aurion",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FINTECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "monogram ai",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "forithmus",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "HEALTH TECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "arf - huma",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FINTECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "heron games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ACTIVE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "peak health",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "HEALTH TECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ACTIVE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "imbik",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI&ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ACTIVE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "oaktree labs",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI&ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ACTIVE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "agave games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "billiontoone",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "IPO",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "700",
+      "lh": "20px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "HEALTH TECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "EXIT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "carbon health",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "UNICORN",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "700",
+      "lh": "20px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "HEALTH TECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "cypher games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "daytona",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "DEVTOOLS & INFRA",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "fal",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "UNICORN",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "700",
+      "lh": "20px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "DEVTOOLS & INFRA, AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "firefly",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "OTHER",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "insider one",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "UNICORN",
+      "font": "\"Inter Tight\"",
+      "size": "12px",
+      "weight": "700",
+      "lh": "20px",
+      "ls": "0.84px",
+      "tt": "uppercase",
+      "color": "rgb(28, 33, 33)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML, ENTERPRISE SOFTWARE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "plum",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FINTECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "ubicloud",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "DEVTOOLS & INFRA",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "polymet",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "feraset",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "OTHER",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "axoflow",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "DEVTOOLS & INFRA",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "brainbase",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "diffusedrive",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "DEVTOOLS & INFRA",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "herdr",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI&ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ACTIVE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND III",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "fume",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "intryc",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "layer",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "massive bio",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML, HEALTH TECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "refine",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "DEVTOOLS & INFRA",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "pazi ai",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "DEVTOOLS & INFRA, AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "yoneda labs",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "vivoo",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "HEALTH TECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "truemeter",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "gesund",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML, HEALTH TECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "kondukto",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ENTERPRISE SOFTWARE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "EXIT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "kalder",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FINTECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "lifemote",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND I",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "pine games",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "GAMING",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "heltia",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FINTECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "vidoc",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "handhold",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "ENTERPRISE SOFTWARE",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "integrated finance",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FINTECH",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "CURRENT",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "FUND",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "FUND II",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "kubeark",
+      "font": "\"Inter Tight\"",
+      "size": "23.04px",
+      "weight": "600",
+      "lh": "25.344px",
+      "ls": "-0.2304px",
+      "tt": "lowercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "VERTICAL",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    },
+    {
+      "tag": "DD",
+      "text": "AI/ML, DEVTOOLS & INFRA",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "500",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "rgb(252, 247, 240)"
+    },
+    {
+      "tag": "DT",
+      "text": "STATUS",
+      "font": "\"Inter Tight\"",
+      "size": "13.68px",
+      "weight": "400",
+      "lh": "20px",
+      "ls": "0.5472px",
+      "tt": "uppercase",
+      "color": "color(srgb 0.988235 0.968627 0.941176 / 0.55)"
+    }
+  ],
+  "text": "MENU\nfriends\ntribe\ntalent\nchill\ncontent\nimpact\nteam\nnextgen\nthe company\nwe keep\nverticals\ngaming\nai/ml\nhealth tech\ndevTools & infra\nenterprise software\nother\nstatus\ncurrent\nexit\nfunds\nFund I\nfund ii\nfund iii\nelyzio\nVERTICAL\nGAMING\nSTATUS\nACTIVE\nFUND\nFUND II\ncircle games\nVERTICAL\nGAMING\nSTATUS\nCURRENT\nFUND\nFUND III\nmandel\nVERTICAL\nAI/ML, ENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND III\nluron\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND III\naspect health\nVERTICAL\nHEALTH TECH\nSTATUS\nCURRENT\nFUND\nFUND II\nbold games\nVERTICAL\nGAMING\nSTATUS\nCURRENT\nFUND\nFUND III\npatientdesk\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND III\ncaretta\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND III\nmission control games\nVERTICAL\nGAMING\nSTATUS\nCURRENT\nFUND\nFUND III\nloom games\nUNICORN\nVERTICAL\nGAMING\nSTATUS\nEXIT\nFUND\nFUND II\nreflow\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND III\naxiology\nVERTICAL\nFINTECH\nSTATUS\nCURRENT\nFUND\nFUND III\naurion\nVERTICAL\nFINTECH\nSTATUS\nCURRENT\nFUND\nFUND III\nmonogram ai\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND III\nforithmus\nVERTICAL\nHEALTH TECH\nSTATUS\nCURRENT\nFUND\nFUND III\narf - huma\nVERTICAL\nFINTECH\nSTATUS\nCURRENT\nFUND\nFUND II\nheron games\nVERTICAL\nGAMING\nSTATUS\nACTIVE\nFUND\nFUND III\npeak health\nVERTICAL\nHEALTH TECH\nSTATUS\nACTIVE\nFUND\nFUND III\nimbik\nVERTICAL\nAI&ML\nSTATUS\nACTIVE\nFUND\nFUND III\noaktree labs\nVERTICAL\nAI&ML\nSTATUS\nACTIVE\nFUND\nFUND III\nagave games\nVERTICAL\nGAMING\nSTATUS\nCURRENT\nFUND\nFUND II\nbilliontoone\nIPO\nVERTICAL\nHEALTH TECH\nSTATUS\nEXIT\nFUND\nFUND I\ncarbon health\nUNICORN\nVERTICAL\nHEALTH TECH\nSTATUS\nCURRENT\nFUND\nFUND I\ncypher games\nVERTICAL\nGAMING\nSTATUS\nCURRENT\nFUND\nFUND II\ndaytona\nVERTICAL\nDEVTOOLS & INFRA\nSTATUS\nCURRENT\nFUND\nFUND II\nfal\nUNICORN\nVERTICAL\nDEVTOOLS & INFRA, AI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nfirefly\nVERTICAL\nOTHER\nSTATUS\nCURRENT\nFUND\nFUND I\ninsider one\nUNICORN\nVERTICAL\nAI/ML, ENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND I\nplum\nVERTICAL\nFINTECH\nSTATUS\nCURRENT\nFUND\nFUND I\nubicloud\nVERTICAL\nDEVTOOLS & INFRA\nSTATUS\nCURRENT\nFUND\nFUND II\npolymet\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nferaset\nVERTICAL\nOTHER\nSTATUS\nCURRENT\nFUND\nFUND II\naxoflow\nVERTICAL\nDEVTOOLS & INFRA\nSTATUS\nCURRENT\nFUND\nFUND II\nbrainbase\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\ndiffusedrive\nVERTICAL\nDEVTOOLS & INFRA\nSTATUS\nCURRENT\nFUND\nFUND II\nherdr\nVERTICAL\nAI&ML\nSTATUS\nACTIVE\nFUND\nFUND III\nfume\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nintryc\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nlayer\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nmassive bio\nVERTICAL\nAI/ML, HEALTH TECH\nSTATUS\nCURRENT\nFUND\nFUND I\nrefine\nVERTICAL\nDEVTOOLS & INFRA\nSTATUS\nCURRENT\nFUND\nFUND II\npazi ai\nVERTICAL\nDEVTOOLS & INFRA, AI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nyoneda labs\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nvivoo\nVERTICAL\nHEALTH TECH\nSTATUS\nCURRENT\nFUND\nFUND I\ntruemeter\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\ngesund\nVERTICAL\nAI/ML, HEALTH TECH\nSTATUS\nCURRENT\nFUND\nFUND II\nkondukto\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nEXIT\nFUND\nFUND I\nkalder\nVERTICAL\nFINTECH\nSTATUS\nCURRENT\nFUND\nFUND II\nlifemote\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND I\npine games\nVERTICAL\nGAMING\nSTATUS\nCURRENT\nFUND\nFUND II\nheltia\nVERTICAL\nFINTECH\nSTATUS\nCURRENT\nFUND\nFUND II\nvidoc\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nhandhold\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND II\nintegrated finance\nVERTICAL\nFINTECH\nSTATUS\nCURRENT\nFUND\nFUND II\nkubeark\nVERTICAL\nAI/ML, DEVTOOLS & INFRA\nSTATUS\nCURRENT\nFUND\nFUND II\nkolay ik\nVERTICAL\nFINTECH\nSTATUS\nCURRENT\nFUND\nFIRST FUND\nlonca\nVERTICAL\nOTHER\nSTATUS\nCURRENT\nFUND\nFUND II\nnicky\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\npermify\nVERTICAL\nDEVTOOLS & INFRA\nSTATUS\nEXIT\nFUND\nFUND II\nplant an app\nVERTICAL\nDEVTOOLS & INFRA\nSTATUS\nCURRENT\nFUND\nFUND I\nblisko\nVERTICAL\nOTHER\nSTATUS\nCURRENT\nFUND\nFUND II\nthe swarm\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND II\nsynnada\nVERTICAL\nDEVTOOLS & INFRA, AI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\nappsamurai\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND I\n3d look\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND I\nango\nVERTICAL\nAI/ML\nSTATUS\nEXIT\nFUND\nFUND II\nplyne.ai\nVERTICAL\nAI&ML, ENTERPRISE SOFTWARE\nSTATUS\nACTIVE\nFUND\nFUND II\nwonder games\nVERTICAL\nGAMING\nSTATUS\nACTIVE\nFUND\nFUND III\ncloudpipes\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nEXIT\nFUND\nFUND I\nbuybuddy\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND I\ndatapad\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND II\ngurubase\nVERTICAL\nDEVTOOLS & INFRA\nSTATUS\nCURRENT\nFUND\nFUND II\nfinedine\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND I\nfazla\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND I\nevreka\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND I\nfxcubic\nVERTICAL\nFINTECH\nSTATUS\nEXIT\nFUND\nFUND I\ninofab\nVERTICAL\nHEALTH TECH\nSTATUS\nEXIT\nFUND\nFUND I\nkimola\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nCURRENT\nFUND\nFUND I\nmall iq\nVERTICAL\nAI/ML\nSTATUS\nCURRENT\nFUND\nFUND I\nmori\nVERTICAL\nOTHER\nSTATUS\nCURRENT\nFUND\nFUND I\nparasut\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nEXIT\nFUND\nFUND I\npeoplise\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nEXIT\nFUND\nFUND I\nrakam\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nEXIT\nFUND\nFUND I\nstructionsite\nVERTICAL\nENTERPRISE SOFTWARE\nSTATUS\nEXIT\nFUND\nFUND I\nSAN FRANCISCO\n11:45 AM\nLONDON\n7:45 PM\nISTANBUL\n9:45 PM\nFRIENDS\nTRIBE\nTALENT\nCHILL\nCONTENT\nIMPACT\nTEAM\nNEXTGEN\nDISCLAIMER\nLINKEDIN ↗\nEMAIL ↗\nPERKHUB ↗\n© 2026 E2VC\nR TO RESET · HOLD SPACE FOR SPACEJUMP\nFOUNDER\nCOMPANY"
+}

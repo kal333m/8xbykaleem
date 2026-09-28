@@ -1,0 +1,183 @@
+{
+  "title": "Manifesto — 8x",
+  "meta": [
+    {
+      "n": "viewport",
+      "c": "width=device-width, initial-scale=1"
+    },
+    {
+      "n": "description",
+      "c": "ai is changing the world. anyone can build so the value lies in the distribution. jobs will change but never disappear. the human in the loop becomes the most valuable and the bottlenecked resource. 8x supplies and orchestrates those humans. implications are global and generational"
+    },
+    {
+      "n": "og:title",
+      "c": "8x — the human company"
+    },
+    {
+      "n": "og:description",
+      "c": "250k+ people in 50+ countries, working in marketing, engineering and research. 8x Social for consumer brands, 8x LinkedIn for B2B, plus 8x Research, 8x Sales and 8x Hiring."
+    },
+    {
+      "n": "og:type",
+      "c": "website"
+    },
+    {
+      "n": "twitter:card",
+      "c": "summary"
+    },
+    {
+      "n": "twitter:title",
+      "c": "8x — the human company"
+    },
+    {
+      "n": "twitter:description",
+      "c": "250k+ people in 50+ countries, working in marketing, engineering and research. 8x Social for consumer brands, 8x LinkedIn for B2B, plus 8x Research, 8x Sales and 8x Hiring."
+    },
+    {
+      "n": "next-size-adjust",
+      "c": ""
+    }
+  ],
+  "links": [
+    {
+      "text": "←\nBACK",
+      "href": "https://8x.life/"
+    }
+  ],
+  "fonts": [
+    [
+      "Newsreader, \"Newsreader Fallback\", \"Iowan Old Style\", Georgia, serif",
+      9
+    ]
+  ],
+  "sizes": [
+    [
+      "30px/41.25px w400",
+      6
+    ],
+    [
+      "12px/16.8px w500",
+      2
+    ],
+    [
+      "16px/26px w400",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(0, 0, 0)",
+      7
+    ],
+    [
+      "rgba(0, 0, 0, 0.5)",
+      2
+    ]
+  ],
+  "bodyBg": "rgb(255, 255, 255)",
+  "bgs": [],
+  "height": 844,
+  "images": 0,
+  "type": [
+    {
+      "tag": "A",
+      "text": "←\nBACK",
+      "font": "Newsreader",
+      "size": "12px",
+      "weight": "500",
+      "lh": "16.8px",
+      "ls": "2.16px",
+      "tt": "uppercase",
+      "color": "rgba(0, 0, 0, 0.5)"
+    },
+    {
+      "tag": "SPAN",
+      "text": "←",
+      "font": "Newsreader",
+      "size": "12px",
+      "weight": "500",
+      "lh": "16.8px",
+      "ls": "2.16px",
+      "tt": "uppercase",
+      "color": "rgba(0, 0, 0, 0.5)"
+    },
+    {
+      "tag": "H1",
+      "text": "The 8x Manifesto",
+      "font": "Newsreader",
+      "size": "16px",
+      "weight": "400",
+      "lh": "26px",
+      "ls": "-0.32px",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "LI",
+      "text": "ai is changing the world",
+      "font": "Newsreader",
+      "size": "30px",
+      "weight": "400",
+      "lh": "41.25px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "LI",
+      "text": "anyone can build so the value lies in the distribution",
+      "font": "Newsreader",
+      "size": "30px",
+      "weight": "400",
+      "lh": "41.25px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "LI",
+      "text": "jobs will change but never disappear",
+      "font": "Newsreader",
+      "size": "30px",
+      "weight": "400",
+      "lh": "41.25px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "LI",
+      "text": "the human in the loop becomes the most valuable and the bott",
+      "font": "Newsreader",
+      "size": "30px",
+      "weight": "400",
+      "lh": "41.25px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "LI",
+      "text": "8x supplies and orchestrates those humans",
+      "font": "Newsreader",
+      "size": "30px",
+      "weight": "400",
+      "lh": "41.25px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "LI",
+      "text": "implications are global and generational",
+      "font": "Newsreader",
+      "size": "30px",
+      "weight": "400",
+      "lh": "41.25px",
+      "ls": "normal",
+      "tt": "none",
+      "color": "rgb(0, 0, 0)"
+    }
+  ],
+  "text": "←\nBACK\nThe 8x Manifesto\nai is changing the world\nanyone can build so the value lies in the distribution\njobs will change but never disappear\nthe human in the loop becomes the most valuable and the bottlenecked resource\n8x supplies and orchestrates those humans\nimplications are global and generational"
+}
