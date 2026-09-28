@@ -45,7 +45,7 @@ That isn't the site's job. The brief says its job is to **make the right people 
 - Flat hierarchy: almost every element is 14–16px; the only large thing is the "8x" wordmark.
 - **No `og:image`**, so shared links on LinkedIn/Slack/WhatsApp (how candidates actually pass this around) show as bare text.
 - ~1 MB of JavaScript to render a page of static text; DOM-ready 2.7s on a fast connection.
-- Careers data hygiene: all 4 "Market Lead Intern" roles are filed under **Design**; 5 roles have no employment type. The filters can't be trusted.
+- Careers data hygiene: all 4 "Market Lead Intern" roles are filed under **Design**, and the Global Sales Intern under Marketing; 4 roles have no employment type (one has no location either). The filters can't be trusted.
 
 ---
 

@@ -28,7 +28,7 @@ The brief says the site should give the wrong people a reason to opt out. So I m
 
 ## Note 07 · Data hygiene
 
-Re-categorised by what the job actually is: 8x.careers files all four Market Lead internships under "Design". Five roles give no employment type or location, so they show "—" rather than a guess. A candidate filtering by team should be able to trust the filter.
+Re-categorised by what the job actually is: 8x.careers files all four Market Lead internships under "Design". Four roles give no employment type (one has no location either), so those fields show "—" rather than a guess. A candidate filtering by team should be able to trust the filter.
 
 ## Note 08 · Promoted, not rewritten
 
