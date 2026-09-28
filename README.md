@@ -1,5 +1,7 @@
 # Life at 8x: a redesign of 8x.life
 
+**Live: [8xbykaleem.vercel.app](https://8xbykaleem.vercel.app/)**
+
 A concept redesign of [8x.life](https://8x.life/), 8x's life-at-the-company site, in the style of [e2.vc](https://e2.vc/). The site's job is to make the right people want to work at 8x and give the wrong people a reason to opt out. The original did neither: it was written for buyers, and its best recruiting material was buried on another domain.
 
 > Not affiliated with or endorsed by 8x. Team footage, names and quotes are 8x's own public material (from [8x.careers](https://www.8x.careers/)), used here to redesign their site for them.
